@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RELIGION_CREATOR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_THE_LIGHT" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_WHEEL_OF_TIME" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_CHILDREN_OFTHE_LIGHT" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_SAIDAR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_DARK_ONE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_DRAGON_REBORN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_CHORA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_THE_EMPRESS" Kind="KIND_RELIGION" />
+
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_CREATOR" Name="LOC_RELIGION_CREATOR" Iconstring="Cr" RequiresCustomName="0" Color="COLOR_RELIGION_CREATOR"/>
+		<Row ReligionType="RELIGION_THE_LIGHT" Name="LOC_RELIGION_THE_LIGHT" Iconstring="TL" RequiresCustomName="0" Color="COLOR_RELIGION_THE_LIGHT"/>
+		<Row ReligionType="RELIGION_WHEEL_OF_TIME" Name="LOC_RELIGION_WHEEL_OF_TIME" Iconstring="WT" RequiresCustomName="0" Color="COLOR_RELIGION_WHEEL_OF_TIME"/>
+		<Row ReligionType="RELIGION_CHILDREN_OFTHE_LIGHT" Name="LOC_RELIGION_CHILDREN_OFTHE_LIGHT" Iconstring="CL" RequiresCustomName="0" Color="COLOR_RELIGION_CHILDREN_OFTHE_LIGHT"/>
+		<Row ReligionType="RELIGION_SAIDAR" Name="LOC_RELIGION_SAIDAR" Iconstring="Sd" RequiresCustomName="0" Color="COLOR_RELIGION_SAIDAR"/>
+		<Row ReligionType="RELIGION_DARK_ONE" Name="LOC_RELIGION_DARK_ONE" Iconstring="DO" RequiresCustomName="0" Color="COLOR_RELIGION_DARK_ONE"/>
+		<Row ReligionType="RELIGION_DRAGON_REBORN" Name="LOC_RELIGION_DRAGON_REBORN" Iconstring="DR" RequiresCustomName="0" Color="COLOR_RELIGION_DRAGON_REBORN"/>
+		<Row ReligionType="RELIGION_CHORA" Name="LOC_RELIGION_CHORA" Iconstring="Ch" RequiresCustomName="0" Color="COLOR_RELIGION_CHORA"/>
+		<Row ReligionType="RELIGION_THE_EMPRESS" Name="LOC_RELIGION_THE_EMPRESS" Iconstring="Em" RequiresCustomName="0" Color="COLOR_RELIGION_THE_EMPRESS"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_GALLDRIAN_RIATIN" ReligionType="RELIGION_CREATOR" />
+		<Row LeaderType="LEADER_TYLIN_MITSOBAR" ReligionType="RELIGION_CREATOR" />
+		<Row LeaderType="LEADER_ALLIANDRE_KIGARIN" ReligionType="RELIGION_CREATOR" />
+		<Row LeaderType="LEADER_AMATHERA_LOUNAULT" ReligionType="RELIGION_CREATOR" />
+		<Row LeaderType="LEADER_ALSALAM_ALMADA" ReligionType="RELIGION_CREATOR" />
+		<Row LeaderType="LEADER_MORGASE_TRAKAND" ReligionType="RELIGION_THE_LIGHT" />
+		<Row LeaderType="LEADER_EASAR_TOGITA" ReligionType="RELIGION_THE_LIGHT" />
+		<Row LeaderType="LEADER_EITHENIELLE_NORAMAGA" ReligionType="RELIGION_THE_LIGHT" />
+		<Row LeaderType="LEADER_TENOBIA_KAZADI" ReligionType="RELIGION_THE_LIGHT" />
+		<Row LeaderType="LEADER_PERRIN_AYBARA" ReligionType="RELIGION_WHEEL_OF_TIME" />
+		<Row LeaderType="LEADER_MAT_CAUTHON" ReligionType="RELIGION_WHEEL_OF_TIME" />
+		<Row LeaderType="LEADER_PEDRON_NIALL" ReligionType="RELIGION_CHILDREN_OFTHE_LIGHT" />
+		<Row LeaderType="LEADER_ELAYNE_TRAKAND" ReligionType="RELIGION_SAIDAR" />
+		<Row LeaderType="LEADER_EGWENE_ALVERE" ReligionType="RELIGION_SAIDAR" />
+		<Row LeaderType="LEADER_SIUAN_SANCHE" ReligionType="RELIGION_SAIDAR" />
+		<Row LeaderType="LEADER_ELAIDA_AROIHAN" ReligionType="RELIGION_SAIDAR" />
+		<Row LeaderType="LEADER_ISHAMAEL" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_DEMANDRED" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_SAMMAEL" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_RAHVIN" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_BELAL" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_GRAENDAL" ReligionType="RELIGION_DARK_ONE" />
+		<Row LeaderType="LEADER_RAND_ALTHOR" ReligionType="RELIGION_DRAGON_REBORN" />
+		<Row LeaderType="LEADER_RHUARC" ReligionType="RELIGION_CHORA" />
+		<Row LeaderType="LEADER_COULADIN" ReligionType="RELIGION_CHORA" />
+		<Row LeaderType="LEADER_TUON_PAENDRAG" ReligionType="RELIGION_THE_EMPRESS" />
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_CREATOR</Type>
+			<Color>58,88,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_THE_LIGHT</Type>
+			<Color>255,237,158,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_WHEEL_OF_TIME</Type>
+			<Color>84,84,84,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_CHILDREN_OFTHE_LIGHT</Type>
+			<Color>213,185,78,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_SAIDAR</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_DARK_ONE</Type>
+			<Color>0,0,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_DRAGON_REBORN</Type>
+			<Color>187,29,42,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_CHORA</Type>
+			<Color>1,63,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_THE_EMPRESS</Type>
+			<Color>46,62,147,255</Color>
+		</Row>
+	</Colors>
+</GameData>

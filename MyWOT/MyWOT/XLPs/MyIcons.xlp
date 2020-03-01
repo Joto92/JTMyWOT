@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>451</build>
+		<revision>343</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyWOTFlags256"/>
+			<m_ObjectName text="MyWOTFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags80"/>
+			<m_ObjectName text="MyWOTFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags64"/>
+			<m_ObjectName text="MyWOTFlags64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags50"/>
+			<m_ObjectName text="MyWOTFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags48"/>
+			<m_ObjectName text="MyWOTFlags48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags45"/>
+			<m_ObjectName text="MyWOTFlags45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags44"/>
+			<m_ObjectName text="MyWOTFlags44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags36"/>
+			<m_ObjectName text="MyWOTFlags36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags32"/>
+			<m_ObjectName text="MyWOTFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags30"/>
+			<m_ObjectName text="MyWOTFlags30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTFlags22"/>
+			<m_ObjectName text="MyWOTFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT256_Leaders"/>
+			<m_ObjectName text="MyWOT256_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT80_Leaders"/>
+			<m_ObjectName text="MyWOT80_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT64_Leaders"/>
+			<m_ObjectName text="MyWOT64_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT55_Leaders"/>
+			<m_ObjectName text="MyWOT55_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT50_Leaders"/>
+			<m_ObjectName text="MyWOT50_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT48_Leaders"/>
+			<m_ObjectName text="MyWOT48_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT45_Leaders"/>
+			<m_ObjectName text="MyWOT45_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT32_Leaders"/>
+			<m_ObjectName text="MyWOT32_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units256"/>
+			<m_ObjectName text="MyWOT_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units80"/>
+			<m_ObjectName text="MyWOT_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units50"/>
+			<m_ObjectName text="MyWOT_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units38"/>
+			<m_ObjectName text="MyWOT_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units32"/>
+			<m_ObjectName text="MyWOT_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units22"/>
+			<m_ObjectName text="MyWOT_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits256"/>
+			<m_ObjectName text="MyWOTPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits200"/>
+			<m_ObjectName text="MyWOTPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits95"/>
+			<m_ObjectName text="MyWOTPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits70"/>
+			<m_ObjectName text="MyWOTPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits50"/>
+			<m_ObjectName text="MyWOTPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTPotraits38"/>
+			<m_ObjectName text="MyWOTPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings256"/>
+			<m_ObjectName text="MyWOT_Buildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings128"/>
+			<m_ObjectName text="MyWOT_Buildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings80"/>
+			<m_ObjectName text="MyWOT_Buildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings70"/>
+			<m_ObjectName text="MyWOT_Buildings70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings50"/>
+			<m_ObjectName text="MyWOT_Buildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings38"/>
+			<m_ObjectName text="MyWOT_Buildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings32"/>
+			<m_ObjectName text="MyWOT_Buildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Buildings22"/>
+			<m_ObjectName text="MyWOT_Buildings22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units256_FOW"/>
+			<m_ObjectName text="MyWOT_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units80_FOW"/>
+			<m_ObjectName text="MyWOT_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units50_FOW"/>
+			<m_ObjectName text="MyWOT_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units38_FOW"/>
+			<m_ObjectName text="MyWOT_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units32_FOW"/>
+			<m_ObjectName text="MyWOT_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOT_Units22_FOW"/>
+			<m_ObjectName text="MyWOT_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTReligionIcon_270"/>
+			<m_ObjectName text="MyWOTReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTReligionIcon_100"/>
+			<m_ObjectName text="MyWOTReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTReligionIcon_50"/>
+			<m_ObjectName text="MyWOTReligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWOTReligionIcon_22"/>
+			<m_ObjectName text="MyWOTReligionIcon_22"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

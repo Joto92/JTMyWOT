@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELAYNE_TRAKAND_QUOTE" Language="en_US">
+			<Text>A wise ruler takes advice, but should never be seen to take it. Let them think you know more than you do. It will not harm them, and it will help you.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EGWENE_ALVERE_QUOTE" Language="en_US">
+			<Text>I'd name you Darkfriend as well, but I suspect the Dark One would perhaps be embarassed to associate with you</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TUON_PAENDRAG_QUOTE" Language="en_US">
+			<Text>A lion can have no mercy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RHUARC_QUOTE" Language="en_US">
+			<Text>For the young, death is an enemy they wish to try their strength against. For those of us a little older, she is an old friend, an old lover, but one we are not eager to meet again soon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ISHAMAEL_QUOTE" Language="en_US">
+			<Text>Yes, Betrayer of Hope. They gave me the name to revile me, but I will yet make them kneel and worship it.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAND_ALTHOR_QUOTE" Language="en_US">
+			<Text>I'm the one who's supposed to go mad, Aes Sedai, but you already are.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERRIN_AYBARA_QUOTE" Language="en_US">
+			<Text>Rand is the one who’s supposed to go mad, and here I am, talking to an axe!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAT_CAUTHON_QUOTE" Language="en_US">
+			<Text>I'm no bloody hero.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIUAN_SANCHE_QUOTE" Language="en_US">
+			<Text>The Oaths hold us together, a stated set of beliefs that bind us all, a single thread running through every sister, living or dead, back to the first to lay her hands on the Oath Rod. They are what make us Aes Sedai, not saidar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELAIDA_AROIHAN_QUOTE" Language="en_US">
+			<Text>The Dark One stirs in Shayol Ghul. The Shadow lies across the Patten, and the future is balanced on the point of a pin. This one is dangerous.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_COULADIN_QUOTE" Language="en_US">
+			<Text>Couladin was a bull with a bee in his ear; he might charge in any direction.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAMMAEL_QUOTE" Language="en_US">
+			<Text>Small increases in chaos are as important as large.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANDOR_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANDOR_SIZE">
+			<Text>Some 680 thousand square miles (1.7 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANDOR_POPULATION">
+			<Text>Est. 20 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ANDOR_CAPITAL">
+			<Text>Caemlyn</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAR_VALON_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAR_VALON_SIZE">
+			<Text>Some 10 thousand square miles (25 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAR_VALON_POPULATION">
+			<Text>Est. 500 thousand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TAR_VALON_CAPITAL">
+			<Text>Tar Valon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHIENAR_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHIENAR_SIZE">
+			<Text>Some 245 thousand square miles (634 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHIENAR_POPULATION">
+			<Text>Est. 11 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHIENAR_CAPITAL">
+			<Text>Fal Moran</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KANDOR_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KANDOR_SIZE">
+			<Text>Some 150 thousand square miles (388 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KANDOR_POPULATION">
+			<Text>Est. 7 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KANDOR_CAPITAL">
+			<Text>Chachin</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SALDEA_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SALDEA_SIZE">
+			<Text>Some 650 thousand square miles (1.6 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SALDEA_POPULATION">
+			<Text>Est. 14 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SALDEA_CAPITAL">
+			<Text>Maradon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAIRHIEN_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAIRHIEN_SIZE">
+			<Text>Some 490 thousand square miles (1.2 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAIRHIEN_POPULATION">
+			<Text>Est. 14 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAIRHIEN_CAPITAL">
+			<Text>Cairhien</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTARA_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTARA_SIZE">
+			<Text>Some 550 thousand square miles (1.4 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTARA_POPULATION">
+			<Text>Est. 12 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTARA_CAPITAL">
+			<Text>Ebou Dar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMADICIA_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMADICIA_SIZE">
+			<Text>Some 220 thousand square miles (569 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMADICIA_POPULATION">
+			<Text>Est. 6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMADICIA_CAPITAL">
+			<Text>Amador</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHEALDAN_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHEALDAN_SIZE">
+			<Text>Some 220 thousand square miles (569 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHEALDAN_POPULATION">
+			<Text>Est. 6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHEALDAN_CAPITAL">
+			<Text>Jehannah</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TARABON_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TARABON_SIZE">
+			<Text>Some 485 thousand square miles (1.2 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TARABON_POPULATION">
+			<Text>Est. 12 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TARABON_CAPITAL">
+			<Text>Tanchico</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARAD_DOMAN_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARAD_DOMAN_SIZE">
+			<Text>Some 300 thousand square miles (777 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARAD_DOMAN_POPULATION">
+			<Text>Est. 10 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARAD_DOMAN_CAPITAL">
+			<Text>Bandar Eban</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SEANCHAN_LOCATION">
+			<Text>Seanchan</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SEANCHAN_SIZE">
+			<Text>Some 28 million square miles (51 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SEANCHAN_POPULATION">
+			<Text>Est. 200 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SEANCHAN_CAPITAL">
+			<Text>Seandar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AIEL_LOCATION">
+			<Text>Aiel Waste</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AIEL_SIZE">
+			<Text>Some 3.1 million square miles (8.1 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AIEL_POPULATION">
+			<Text>Est. 2 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AIEL_CAPITAL">
+			<Text>Various (Cold Rocks Hold, Comarda Hold, Red Springs Hold, Smoke Springs Hold ...)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHAI_TAN_LOCATION">
+			<Text>Great Blight</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHAI_TAN_SIZE">
+			<Text>Some 16 million square miles (41.4 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHAI_TAN_POPULATION">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SHAI_TAN_CAPITAL">
+			<Text>Shayol Ghul</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAGON_REBORN_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAGON_REBORN_SIZE">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAGON_REBORN_POPULATION">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DRAGON_REBORN_CAPITAL">
+			<Text>Tear</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWO_RIVERS_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWO_RIVERS_SIZE">
+			<Text>Some 20 thousand square miles (52 thousand square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWO_RIVERS_POPULATION">
+			<Text>Est. 40 thousand</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TWO_RIVERS_CAPITAL">
+			<Text>Emond's Field</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BAND_RED_HAND_LOCATION">
+			<Text>Westlands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BAND_RED_HAND_SIZE">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BAND_RED_HAND_POPULATION">
+			<Text>24,000 fighting men</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BAND_RED_HAND_CAPITAL">
+			<Text>Unknown</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

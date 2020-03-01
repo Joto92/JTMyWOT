@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>451</build>
+		<revision>343</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELAYNE_TRAKAND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELAYNE_TRAKAND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_EGWENE_ALVERE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_EGWENE_ALVERE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_EASAR_TOGITA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_EASAR_TOGITA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_EITHENIELLE_NORAMAGA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_EITHENIELLE_NORAMAGA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TENOBIA_KAZADI"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TENOBIA_KAZADI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GALLDRIAN_RIATIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GALLDRIAN_RIATIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TYLIN_MITSOBAR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TYLIN_MITSOBAR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_PEDRON_NIALL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_PEDRON_NIALL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ALLIANDRE_KIGARIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ALLIANDRE_KIGARIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AMATHERA_LOUNAULT"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AMATHERA_LOUNAULT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ALSALAM_ALMADA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ALSALAM_ALMADA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_TUON_PAENDRAG"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_TUON_PAENDRAG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RHUARC"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RHUARC"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ISHAMAEL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ISHAMAEL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RAND_ALTHOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RAND_ALTHOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_PERRIN_AYBARA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_PERRIN_AYBARA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAT_CAUTHON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAT_CAUTHON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MORGASE_TRAKAND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MORGASE_TRAKAND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SIUAN_SANCHE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SIUAN_SANCHE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELAIDA_AROIHAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELAIDA_AROIHAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_COULADIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_COULADIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DEMANDRED"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DEMANDRED"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_SAMMAEL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_SAMMAEL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RAHVIN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RAHVIN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BELAL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BELAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GRAENDAL"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GRAENDAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

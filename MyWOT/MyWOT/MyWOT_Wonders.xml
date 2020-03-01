@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--
+	Building Wonders
+		Topless Towers, Royal Library of Cairhien, White Tower, Stone of Tear, Square of Tammaz, Silverwall Keeps, Silver Circuit, Fortress of the Light
+		Whitebridge
+	-->
+	<Types>
+		<Row Type="FEATURE_DRAGONMOUNT" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SHAYOL_GHUL" Kind="KIND_FEATURE"/>
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" Name="LOC_FEATURE_DRAGONMOUNT_NAME" Description="LOC_FEATURE_DRAGONMOUNT_DESCRIPTION" Quote="LOC_FEATURE_DRAGONMOUNT_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" Name="LOC_FEATURE_SHAYOL_GHUL_NAME" Description="LOC_FEATURE_SHAYOL_GHUL_DESCRIPTION" Quote="LOC_FEATURE_SHAYOL_GHUL_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+	</Feature_ValidTerrains>
+
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+	</Feature_NotAdjacentTerrains>
+
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+	</Feature_YieldChanges>
+
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+	</Feature_AdjacentYields>
+</GameData>

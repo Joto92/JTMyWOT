@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitReplaces>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_SERPENT_SWORD_CAV"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_RAZOR_RIDER"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_GROLM"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_DAWN_RUNNERS"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_DARKHOUND_PACK"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_ILLIAN_COMPANIONS"/>
+		</Update>
+		<Update>
+			<Set ReplacesUnitType="UNIT_COURSER"/>
+			<Where CivUniqueUnitType="UNIT_WOLF_PACK"/>
+		</Update>
+	</UnitReplaces>
+	<Units>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_SERPENT_SWORD_CAV</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_RAZOR_RIDER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_GROLM</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DAWN_RUNNERS</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DARKHOUND_PACK</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_ILLIAN_COMPANIONS</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_WOLF_PACK</UnitType>
+			</Where>
+		</Update>
+	</Units>
+	<UnitUpgrades>
+		<Update>
+			<Where Unit="UNIT_SERPENT_SWORD_CAV"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_RAZOR_RIDER"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_GROLM"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_DAWN_RUNNERS"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_DARKHOUND_PACK"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_ILLIAN_COMPANIONS"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+		<Update>
+			<Where Unit="UNIT_WOLF_PACK"/>
+			<Set>
+				<UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit>
+			</Set>
+		</Update>
+	</UnitUpgrades>
+	<Units_XP2>
+		<Row UnitType="UNIT_GAIDIN" ResourceCost="20"/>
+		<Row UnitType="UNIT_TOPKNOT_CAVALRY" ResourceCost="20"/>
+		<Row UnitType="UNIT_SERPENT_SWORD_CAV" ResourceCost="20"/>
+		<Row UnitType="UNIT_WHITECLOAK" ResourceCost="20"/>
+		<Row UnitType="UNIT_RAZOR_RIDER" ResourceCost="20"/>
+		<Row UnitType="UNIT_DEATHWATCH_GUARD" ResourceCost="20"/>
+		<Row UnitType="UNIT_MORATTORM" ResourceCost="20"/>
+		<Row UnitType="UNIT_WOLF_TROLLOC" ResourceCost="20"/>
+		<Row UnitType="UNIT_MYRDDRAAL" ResourceCost="20"/>
+		<Row UnitType="UNIT_ILLIAN_COMPANIONS" ResourceCost="20"/>
+		<Row UnitType="UNIT_LEGION_OFTHE_DRAGON" ResourceCost="20"/>
+		<Row UnitType="UNIT_BORDERLANDER" ResourceCost="20"/>
+	</Units_XP2>
+	<Building_TourismBombs_XP2>
+		<Row BuildingType="BUILDING_HORSE_RACETRACK" TourismBombValue="250"/>
+	</Building_TourismBombs_XP2>
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_DEPOSITORY" YieldChangeId="Geothermal_Science"/>
+	</District_Adjacencies>
+	<Districts_XP2>
+		<Row DistrictType="DISTRICT_COMMUNAL_BATH" PreventsDrought="true"/>
+	</Districts_XP2>
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_INDUSTRIAL_ZONE" YieldChangeId="CommunalBath_Production"/>
+	</District_Adjacencies>
+	<Adjacency_YieldChanges>
+		<Row ID="CommunalBath_Production" Description="LOC_DISTRICT_BATH_PRODUCTION" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_COMMUNAL_BATH"/>
+	</Adjacency_YieldChanges>
+	<District_BuildChargeProductions>
+		<Row DistrictType="DISTRICT_COMMUNAL_BATH" UnitType="UNIT_MILITARY_ENGINEER" PercentProductionPerCharge="20"/>
+	</District_BuildChargeProductions>
+	<DistrictModifiers>
+		<Row DistrictType="DISTRICT_COMMUNAL_BATH" ModifierId="BATH_ADDAMENITIES"/>
+	</DistrictModifiers>
+	<Traits>
+		<Update>
+			<Set Description="LOC_TRAIT_THREE_FOLD_LAND_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_THREE_FOLD_LAND"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_LORD_OFTHE_GRAVE_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_LORD_OFTHE_GRAVE"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_CAR_A_CARN_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_LEADER_CAR_A_CARN"/>
+		</Update>
+	</Traits>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_CIVILIZATION_THREE_FOLD_LAND" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT"/>
+		<Row TraitType="TRAIT_CIVILIZATION_THREE_FOLD_LAND" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB"/>
+		<Row TraitType="TRAIT_CIVILIZATION_LORD_OFTHE_GRAVE" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT"/>
+		<Row TraitType="TRAIT_CIVILIZATION_LORD_OFTHE_GRAVE" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB"/>
+		<Row TraitType="TRAIT_LEADER_CAR_A_CARN" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT"/>
+		<Row TraitType="TRAIT_LEADER_CAR_A_CARN" ModifierId="TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB"/>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_GRADIENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_HABOOB</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_WOT_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+	</ModifierArguments>
+
+	<Features_XP2>
+		<Row FeatureType="FEATURE_DRAGONMOUNT" Volcano="true"/>
+		<Row FeatureType="FEATURE_SHAYOL_GHUL" Volcano="true"/>
+	</Features_XP2>
+
+	<Types>
+		<Row Type="RANDOM_EVENT_DRAGONMOUNT_GENTLE" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" Kind="KIND_RANDOM_EVENT"/>
+	</Types>
+
+	<RandomEvents>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" Name="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="0" NaturalWonder="FEATURE_DRAGONMOUNT" IconLarge="ClimateEvent_VolcanoInactive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" Name="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="1" NaturalWonder="FEATURE_DRAGONMOUNT" IconLarge="ClimateEvent_VolcanoActive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" Name="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="2" NaturalWonder="FEATURE_DRAGONMOUNT" IconLarge="ClimateEvent_VolcanoErupting" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" Name="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="0" NaturalWonder="FEATURE_SHAYOL_GHUL" IconLarge="ClimateEvent_VolcanoInactive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" Name="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="1" NaturalWonder="FEATURE_SHAYOL_GHUL" IconLarge="ClimateEvent_VolcanoActive" IconSmall="ClimateEventStat_Volcanoes"/>
+
+	</RandomEvents>
+
+	<RandomEvent_Frequencies>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="0"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="0.5"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="2.5"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="3"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="1.5"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="3"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="1.5"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="0.5"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="5"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="2.5"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="1.5"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="6"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="6"/>
+	</RandomEvent_Frequencies>
+
+	<RandomEvent_Damages>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" DamageType="IMPROVEMENT_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" DamageType="BUILDING_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="POPULATION_LOSS" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="UNIT_KILLED_CIVILIAN" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="CITY_GARRISON" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" DamageType="CITY_WALLS" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" DamageType="IMPROVEMENT_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" DamageType="BUILDING_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="POPULATION_LOSS" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="UNIT_KILLED_CIVILIAN" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="CITY_GARRISON" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" DamageType="CITY_WALLS" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="POPULATION_LOSS" Percentage="35" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="UNIT_KILLED_CIVILIAN" Percentage="35" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="CITY_GARRISON" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" DamageType="CITY_WALLS" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+	</RandomEvent_Damages>
+
+	<RandomEvent_Yields>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="35" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_GENTLE" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="15" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="50" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="25" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_SHAYOL_GHUL_CATASTROPHIC" YieldType="YIELD_SCIENCE" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="10" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="35" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_GENTLE" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="15" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="50" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="25" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_CATASTROPHIC" YieldType="YIELD_SCIENCE" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="10" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" YieldType="YIELD_FOOD" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="75" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" YieldType="YIELD_PRODUCTION" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="35" ReplaceFeature="true"/>
+		<Row RandomEventType="RANDOM_EVENT_DRAGONMOUNT_MEGACOLOSSAL" YieldType="YIELD_SCIENCE" FeatureType="FEATURE_VOLCANIC_SOIL" Percentage="15" ReplaceFeature="true"/>
+	</RandomEvent_Yields>
+
+	<Types>
+		<Row Type="NAMED_RIVER_AKUUM" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DHAGON" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GAELIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ALGUENYA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_IRALELL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ANDAHAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LUAN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ANTAEO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ARINELLE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_IVO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CARY" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ARMAHN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_REISENDRELLE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_HAEVIN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_STORN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ELDAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SHAL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BOERN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ERININ" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MANETHERENDRELLE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TARENDRELLE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MORA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SHARIA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_DESERT_AIEL_WASTE" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_BLASTED_LANDS" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_GREAT_BLIGHT" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_LESSER_BLIGHT" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_DESERT_TERMOOL_DESERT" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_MOUNTAIN_BANIKHAN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_CHISHEN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DAMONA" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_NEMARELLIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_VERIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_KINSLAYERS_DAGGER" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MARASIDE" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGONS_DAGGER" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_GARENS_WALL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_IJAZ" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ALDAEL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DHOOM" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MIST" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_SPINE_OFTHE_WORLD" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGONWALL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_THE_GREAT_RIFT" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_LAKE_SOMAL" Kind="KIND_NAMED_LAKE"/>
+		<Row Type="NAMED_SEA_LHEYE" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_OF_STORMS" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_SEA_THE_DEAD" Kind="KIND_NAMED_SEA"/>
+		<Row Type="NAMED_OCEAN_ARYTH" Kind="KIND_NAMED_OCEAN"/>
+		<Row Type="NAMED_OCEAN_MORENAL" Kind="KIND_NAMED_OCEAN"/>
+	</Types>
+
+	<NamedRivers>
+		<Row NamedRiverType="NAMED_RIVER_AKUUM" Name="LOC_NAMED_RIVER_AKUUM_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DHAGON" Name="LOC_NAMED_RIVER_DHAGON_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GAELIN" Name="LOC_NAMED_RIVER_GAELIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ALGUENYA" Name="LOC_NAMED_RIVER_ALGUENYA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_IRALELL" Name="LOC_NAMED_RIVER_IRALELL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ANDAHAR" Name="LOC_NAMED_RIVER_ANDAHAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LUAN" Name="LOC_NAMED_RIVER_LUAN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ANTAEO" Name="LOC_NAMED_RIVER_ANTAEO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ARINELLE" Name="LOC_NAMED_RIVER_ARINELLE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_IVO" Name="LOC_NAMED_RIVER_IVO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CARY" Name="LOC_NAMED_RIVER_CARY_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ARMAHN" Name="LOC_NAMED_RIVER_ARMAHN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_REISENDRELLE" Name="LOC_NAMED_RIVER_REISENDRELLE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_HAEVIN" Name="LOC_NAMED_RIVER_HAEVIN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_STORN" Name="LOC_NAMED_RIVER_STORN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ELDAR" Name="LOC_NAMED_RIVER_ELDAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SHAL" Name="LOC_NAMED_RIVER_SHAL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BOERN" Name="LOC_NAMED_RIVER_BOERN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ERININ" Name="LOC_NAMED_RIVER_ERININ_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MANETHERENDRELLE" Name="LOC_NAMED_RIVER_MANETHERENDRELLE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TARENDRELLE" Name="LOC_NAMED_RIVER_TARENDRELLE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MORA" Name="LOC_NAMED_RIVER_MORA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SHARIA" Name="LOC_NAMED_RIVER_SHARIA_NAME"/>
+	</NamedRivers>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_AKUUM" CivilizationType="CIVILIZATION_ARAD_DOMAN"/>
+		<Row NamedRiverType="NAMED_RIVER_DHAGON" CivilizationType="CIVILIZATION_ARAD_DOMAN"/>
+		<Row NamedRiverType="NAMED_RIVER_GAELIN" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedRiverType="NAMED_RIVER_ALGUENYA" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedRiverType="NAMED_RIVER_IRALELL" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedRiverType="NAMED_RIVER_ANDAHAR" CivilizationType="CIVILIZATION_TARABON"/>
+		<Row NamedRiverType="NAMED_RIVER_LUAN" CivilizationType="CIVILIZATION_TAR_VALON"/>
+		<Row NamedRiverType="NAMED_RIVER_ANTAEO" CivilizationType="CIVILIZATION_TAR_VALON"/>
+		<Row NamedRiverType="NAMED_RIVER_ERININ" CivilizationType="CIVILIZATION_TAR_VALON"/>
+		<Row NamedRiverType="NAMED_RIVER_ERININ" CivilizationType="CIVILIZATION_SHIENAR"/>
+		<Row NamedRiverType="NAMED_RIVER_ERININ" CivilizationType="CIVILIZATION_DRAGON_REBORN"/>
+		<Row NamedRiverType="NAMED_RIVER_MORA" CivilizationType="CIVILIZATION_SHIENAR"/>
+		<Row NamedRiverType="NAMED_RIVER_SHARIA" CivilizationType="CIVILIZATION_AMADICIA"/>
+		<Row NamedRiverType="NAMED_RIVER_CARY" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_ARMAHN" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_REISENDRELLE" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_HAEVIN" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_STORN" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_ARINELLE" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_MANETHERENDRELLE" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_TARENDRELLE" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedRiverType="NAMED_RIVER_TARENDRELLE" CivilizationType="CIVILIZATION_TWO_RIVERS"/>
+		<Row NamedRiverType="NAMED_RIVER_MANETHERENDRELLE" CivilizationType="CIVILIZATION_TWO_RIVERS"/>
+		<Row NamedRiverType="NAMED_RIVER_ARINELLE" CivilizationType="CIVILIZATION_SALDEA"/>
+		<Row NamedRiverType="NAMED_RIVER_IVO" CivilizationType="CIVILIZATION_SALDEA"/>
+		<Row NamedRiverType="NAMED_RIVER_ELDAR" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedRiverType="NAMED_RIVER_SHAL" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedRiverType="NAMED_RIVER_BOERN" CivilizationType="CIVILIZATION_GHEALDAN"/>
+		<Row NamedRiverType="NAMED_RIVER_ELDAR" CivilizationType="CIVILIZATION_GHEALDAN"/>
+		<Row NamedRiverType="NAMED_RIVER_SHAL" CivilizationType="CIVILIZATION_GHEALDAN"/>
+	</NamedRiverCivilizations>
+	<NamedDeserts>
+		<Row NamedDesertType="NAMED_DESERT_AIEL_WASTE" Name="LOC_NAMED_DESERT_AIEL_WASTE_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" Name="LOC_NAMED_DESERT_BLASTED_LANDS_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_GREAT_BLIGHT" Name="LOC_NAMED_DESERT_GREAT_BLIGHT_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_LESSER_BLIGHT" Name="LOC_NAMED_DESERT_LESSER_BLIGHT_NAME"/>
+		<Row NamedDesertType="NAMED_DESERT_TERMOOL_DESERT" Name="LOC_NAMED_DESERT_TERMOOL_DESERT_NAME"/>
+	</NamedDeserts>
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_AIEL_WASTE" CivilizationType="CIVILIZATION_AIEL"/>
+		<Row NamedDesertType="NAMED_DESERT_TERMOOL_DESERT" CivilizationType="CIVILIZATION_AIEL"/>
+		<Row NamedDesertType="NAMED_DESERT_BLASTED_LANDS" CivilizationType="CIVILIZATION_SHAI_TAN"/>
+		<Row NamedDesertType="NAMED_DESERT_GREAT_BLIGHT" CivilizationType="CIVILIZATION_SHAI_TAN"/>
+		<Row NamedDesertType="NAMED_DESERT_LESSER_BLIGHT" CivilizationType="CIVILIZATION_SEANCHAN"/>
+	</NamedDesertCivilizations>
+	<NamedMountains>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BANIKHAN" Name="LOC_NAMED_MOUNTAIN_BANIKHAN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_CHISHEN" Name="LOC_NAMED_MOUNTAIN_CHISHEN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DAMONA" Name="LOC_NAMED_MOUNTAIN_DAMONA_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_NEMARELLIN" Name="LOC_NAMED_MOUNTAIN_NEMARELLIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VERIN" Name="LOC_NAMED_MOUNTAIN_VERIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KINSLAYERS_DAGGER" Name="LOC_NAMED_MOUNTAIN_KINSLAYERS_DAGGER_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MARASIDE" Name="LOC_NAMED_MOUNTAIN_MARASIDE_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONS_DAGGER" Name="LOC_NAMED_MOUNTAIN_DRAGONS_DAGGER_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GARENS_WALL" Name="LOC_NAMED_MOUNTAIN_GARENS_WALL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_IJAZ" Name="LOC_NAMED_MOUNTAIN_IJAZ_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ALDAEL" Name="LOC_NAMED_MOUNTAIN_ALDAEL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DHOOM" Name="LOC_NAMED_MOUNTAIN_DHOOM_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MIST" Name="LOC_NAMED_MOUNTAIN_MIST_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SPINE_OFTHE_WORLD" Name="LOC_NAMED_MOUNTAIN_SPINE_OFTHE_WORLD_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONWALL" Name="LOC_NAMED_MOUNTAIN_DRAGONWALL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_THE_GREAT_RIFT" Name="LOC_NAMED_MOUNTAIN_THE_GREAT_RIFT_NAME"/>
+	</NamedMountains>
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BANIKHAN" CivilizationType="CIVILIZATION_SALDEA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_CHISHEN" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DAMONA" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_NEMARELLIN" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VERIN" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KINSLAYERS_DAGGER" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MARASIDE" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONS_DAGGER" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GARENS_WALL" CivilizationType="CIVILIZATION_GHEALDAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_IJAZ" CivilizationType="CIVILIZATION_SEANCHAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ALDAEL" CivilizationType="CIVILIZATION_SEANCHAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DHOOM" CivilizationType="CIVILIZATION_SHAI_TAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DHOOM" CivilizationType="CIVILIZATION_SHIENAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DHOOM" CivilizationType="CIVILIZATION_KANDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DHOOM" CivilizationType="CIVILIZATION_SALDEA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SPINE_OFTHE_WORLD" CivilizationType="CIVILIZATION_SHIENAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SPINE_OFTHE_WORLD" CivilizationType="CIVILIZATION_CAIRHIEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MIST" CivilizationType="CIVILIZATION_ARAD_DOMAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MIST" CivilizationType="CIVILIZATION_TWO_RIVERS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MIST" CivilizationType="CIVILIZATION_ANDOR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MIST" CivilizationType="CIVILIZATION_GHEALDAN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONWALL" CivilizationType="CIVILIZATION_AIEL"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_THE_GREAT_RIFT" CivilizationType="CIVILIZATION_AIEL"/>
+	</NamedMountainCivilizations>
+	<NamedLakes>
+		<Row NamedLakeType="NAMED_LAKE_SOMAL" Name="LOC_NAMED_LAKE_SOMAL_NAME"/>
+	</NamedLakes>
+	<NamedLakeCivilizations>
+		<Row NamedLakeType="NAMED_LAKE_SOMAL" CivilizationType="CIVILIZATION_ARAD_DOMAN"/>
+	</NamedLakeCivilizations>
+	<NamedSeas>
+		<Row NamedSeaType="NAMED_SEA_LHEYE" Name="LOC_NAMED_SEA_LHEYE_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_OF_STORMS" Name="LOC_NAMED_SEA_OF_STORMS_NAME"/>
+		<Row NamedSeaType="NAMED_SEA_THE_DEAD" Name="LOC_NAMED_SEA_THE_DEAD_NAME"/>
+	</NamedSeas>
+	<NamedSeaCivilizations>
+		<Row NamedSeaType="NAMED_SEA_LHEYE" CivilizationType="CIVILIZATION_SEANCHAN"/>
+		<Row NamedSeaType="NAMED_SEA_OF_STORMS" CivilizationType="CIVILIZATION_ALTARA"/>
+		<Row NamedSeaType="NAMED_SEA_OF_STORMS" CivilizationType="CIVILIZATION_DRAGON_REBORN"/>
+	</NamedSeaCivilizations>
+	<NamedOceans>
+		<Row NamedOceanType="NAMED_OCEAN_ARYTH" Name="LOC_NAMED_OCEAN_ARYTH_NAME"/>
+		<Row NamedOceanType="NAMED_OCEAN_MORENAL" Name="LOC_NAMED_OCEAN_MORENAL_NAME"/>
+	</NamedOceans>
+	<NamedOceanCivilizations>
+		<Row NamedOceanType="NAMED_OCEAN_ARYTH" CivilizationType="CIVILIZATION_TARABON"/>
+		<Row NamedOceanType="NAMED_OCEAN_ARYTH" CivilizationType="CIVILIZATION_ARAD_DOMAN"/>
+		<Row NamedOceanType="NAMED_OCEAN_MORENAL" CivilizationType="CIVILIZATION_SEANCHAN"/>
+	</NamedOceanCivilizations>
+</GameData>

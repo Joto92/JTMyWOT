@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_BLIGHTBORDER_TOWER" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_NOBLE_MANOR_HOUSE" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" Name="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_NAME" Description="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_DESCRIPTION" Icon="ICON_IMPROVEMENT_BLIGHTBORDER_TOWER" PlunderType="NO_PLUNDER" Buildable="true" DefenseModifier="6" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_BLIGHTBORDER_TOWER"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" Name="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_NAME" Description="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_DESCRIPTION" Icon="ICON_IMPROVEMENT_NOBLE_MANOR_HOUSE" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_FEUDALISM" SameAdjacentValid="false" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_NOBLE_MANOR_HOUSE" Appeal="1"/>
+
+	</Improvements>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" TerrainType="TERRAIN_GRASS"/>
+
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" UnitType="UNIT_MILITARY_ENGINEER"/>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_BLIGHTBORDER_TOWER" YieldChangeId="BlightborderProduction"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" YieldChangeId="NobleManorHousePlantation"/>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" YieldChangeId="NobleManorHouseCamp"/>
+
+	</Improvement_Adjacencies>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+	</Improvement_YieldChanges>
+
+	<Adjacency_YieldChanges>
+		<Row ID="BlightborderProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="NobleManorHousePlantation" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="3" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_PLANTATION" PrereqTech="TECH_MASONRY"/>
+		<Row ID="NobleManorHouseCamp" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="3" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_CAMP" PrereqTech="TECH_MASONRY"/>
+
+	</Adjacency_YieldChanges>
+
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_NOBLE_MANOR_HOUSE" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+	</Improvement_Tourism>
+</GameData>

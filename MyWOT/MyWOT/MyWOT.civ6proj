@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: Wheel of Time Mod</Name>
+    <Guid>d60da25d-7966-4620-81e9-3303ea912608</Guid>
+    <ProjectGuid>e960dd42-9895-4b6b-9f51-a16e355669b1</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This mod is based in Wheel of Time</Teaser>
+    <Description>Play the Civilizations from Wheel of Time. Andor, Tar Valon, Shienar, Seanchan ...</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <InGameActionData><![CDATA[
+        <InGameActions>
+          <UpdateDatabase id="Gameplay">
+          <File>MyWOT_Civs.xml</File>
+          <File>MyWOT_Leaders.xml</File>
+          <File>MyWOT_Buildings.xml</File>
+          <File>MyWOT_Units.xml</File>
+          <File>MyWOT_UnitAbilities.xml</File>
+          <File>MyWOT_Improvements.xml</File>
+          <File>MyWOT_Religions.xml</File>
+          <File>MyWOT_Citystates.xml</File>
+          <File>MyWOT_Wonders.xml</File>
+          <File>MyWOT_Districts.xml</File>
+          </UpdateDatabase>
+          <UpdateColors id="PlayerColors">
+            <File>MyWOT_Colors.xml</File>
+          </UpdateColors>
+          <UpdateDatabase id="UsingExpansion2">
+            <Properties>
+              <LoadOrder>401</LoadOrder>
+            </Properties>
+            <Criteria>Expansion2</Criteria>
+            <File>MyWOT_Expansion2.xml</File>
+          </UpdateDatabase>
+          <UpdateDatabase id="UsingExpansion1">
+            <Criteria>Expansion1</Criteria>
+            <File>MyWOT_Expansion1.xml</File>
+          </UpdateDatabase>
+          <UpdateText id="Text">
+            <File>MyWOT_ConfigText.xml</File>
+            <File>MyWOT_Text.xml</File>
+          </UpdateText>
+          <UpdateIcons id="Icons">
+            <File>MyWOT_Icons.xml</File>
+          </UpdateIcons>
+          <UpdateArt id="Art">
+            <Criteria>LeaderCriteria</Criteria>
+            <File>(Mod Art Dependency File)</File>
+          </UpdateArt>
+        </InGameActions>
+      ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+        <FrontEndActions>
+          <UpdateDatabase id="Config">
+            <File>MyWOT_Config.xml</File>
+          </UpdateDatabase>
+          <UpdateText id="ConfigText">
+            <File>MyWOT_ConfigText.xml</File>
+          </UpdateText>
+          <UpdateColors id="PlayerColors">
+            <File>MyWOT_Colors.xml</File>
+          </UpdateColors>
+          <UpdateIcons id="ConfigIcons">
+            <File>MyWOT_Icons.xml</File>
+          </UpdateIcons>
+          <UpdateArt id="ConfigArt">
+            <File>(Mod Art Dependency File)</File>
+          </UpdateArt>
+          <AddMap id="AddMapWOT"><Properties><Group>StandardMaps</Group><Name>The Wheel of Time Map Vanilla</Name><Description>The Wheel of Time Map</Description></Properties><File>Maps/WHEELOFTIME_Players.Civ6Map</File></AddMap>
+          <AddMap id="AddMapWOTRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>The Wheel of Time Map RF</Name><Description>The Wheel of Time Map RF</Description></Properties><File>Maps/WHEELOFTIME_Players.Civ6Map</File></AddMap>
+          <AddMap id="AddMapWOTGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>The Wheel of Time Map Gathering</Name><Description>The Wheel of Time Map Gathering</Description></Properties><File>Maps/WHEELOFTIME_Players.Civ6Map</File></AddMap>
+        </FrontEndActions>
+      ]]></FrontEndActionData>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+        <Criteria id="Expansion1">
+          <GameCoreInUse>Expansion1</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>]]></ActionCriteriaData>
+    <AssemblyName>MyWOT</AssemblyName>
+    <RootNamespace>MyWOT</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Maps\WHEELOFTIME_Players.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Districts.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Expansion1.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Improvements.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_UnitAbilities.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Wonders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Maps" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyWOT_Citystates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Config.xml" />
+    <Content Include="MyWOT_ConfigText.xml" />
+    <Content Include="MyWOT_Civs.xml" />
+    <Content Include="MyWOT_Expansion2.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Icons.xml" />
+    <Content Include="MyWOT_Leaders.xml" />
+    <Content Include="MyWOT_Buildings.xml" />
+    <Content Include="MyWOT_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWOT_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="MyWOT.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

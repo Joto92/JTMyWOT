@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Modifiers>
+		<Update>
+			<Where>
+				<ModifierId>TRAIT_WOT_CAPTURE_AS_DAMANE</ModifierId>
+			</Where>
+			<Set>
+				<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_UNIT_CAPTURE</ModifierType>
+			</Set>
+		</Update>
+	</Modifiers>
+
+	<BuildingModifiers>
+		<Row BuildingType="BUILDING_FOUNTAIN_SQUARE" ModifierId="MONUMENT_LOYALTY"/>
+		<Row BuildingType="BUILDING_FOUNTAIN_SQUARE" ModifierId="MONUMENT_CULTURE_AT_FULL_LOYALTY"/>
+	</BuildingModifiers>
+
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_DEPOSITORY" YieldChangeId="Government_Science"/>
+		<Row DistrictType="DISTRICT_KANDOR_MERCHANT_GUILD" YieldChangeId="Government_Gold"/>
+
+	</District_Adjacencies>
+</GameData>

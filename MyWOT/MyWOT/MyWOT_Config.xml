@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_ELAYNE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAYNE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TRAKAND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TRAKAND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAYNE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_EGWENE_ALVERE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EGWENE_ALVERE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EGWENE_ALVERE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITE_TOWER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITE_TOWER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EGWENE_ALVERE</LeaderAbilityIcon>
+			<Portrait>LEADER_EGWENE_ALVERE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHIENAR</CivilizationType>
+			<LeaderType>LEADER_EASAR_TOGITA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHIENAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHIENAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EASAR_TOGITA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EASAR_TOGITA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_PEACE_FAVOR_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_PEACE_FAVOR_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHIENAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TOGITA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TOGITA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EASAR_TOGITA</LeaderAbilityIcon>
+			<Portrait>LEADER_EASAR_TOGITA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KANDOR</CivilizationType>
+			<LeaderType>LEADER_EITHENIELLE_NORAMAGA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EITHENIELLE_NORAMAGA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_CLOUDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_CLOUDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_NORAMAGA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_NORAMAGA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderAbilityIcon>
+			<Portrait>LEADER_EITHENIELLE_NORAMAGA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SALDEA</CivilizationType>
+			<LeaderType>LEADER_TENOBIA_KAZADI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SALDEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TENOBIA_KAZADI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SALDEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_KAZADI_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_KAZADI_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderAbilityIcon>
+			<Portrait>LEADER_TENOBIA_KAZADI_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CAIRHIEN</CivilizationType>
+			<LeaderType>LEADER_GALLDRIAN_RIATIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CAIRHIEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GALLDRIAN_RIATIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAES_DAEMAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAES_DAEMAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_RIATIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_RIATIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderAbilityIcon>
+			<Portrait>LEADER_GALLDRIAN_RIATIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALTARA</CivilizationType>
+			<LeaderType>LEADER_TYLIN_MITSOBAR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTARA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTARA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TYLIN_MITSOBAR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_WINDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_WINDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTARA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_MITSOBAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_MITSOBAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderAbilityIcon>
+			<Portrait>LEADER_TYLIN_MITSOBAR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AMADICIA</CivilizationType>
+			<LeaderType>LEADER_PEDRON_NIALL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AMADICIA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AMADICIA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PEDRON_NIALL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PEDRON_NIALL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AMADICIA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PEDRON_NIALL</LeaderAbilityIcon>
+			<Portrait>LEADER_PEDRON_NIALL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_GHEALDAN</CivilizationType>
+			<LeaderType>LEADER_ALLIANDRE_KIGARIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GHEALDAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALLIANDRE_KIGARIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GARENS_WALL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GARENS_WALL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEFENDER_GAREN_WALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEFENDER_GAREN_WALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ALLIANDRE_KIGARIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TARABON</CivilizationType>
+			<LeaderType>LEADER_AMATHERA_LOUNAULT</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TARABON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TARABON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AMATHERA_LOUNAULT_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TREE_OF_MAN_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TREE_OF_MAN_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TARABON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PANARCH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PANARCH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderAbilityIcon>
+			<Portrait>LEADER_AMATHERA_LOUNAULT_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ARAD_DOMAN</CivilizationType>
+			<LeaderType>LEADER_ALSALAM_ALMADA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARAD_DOMAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALSALAM_ALMADA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_COUNCIL_OF_MERCHANTS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_COUNCIL_OF_MERCHANTS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_ALMADAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_ALMADAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALSALAM_ALMADA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SEANCHAN</CivilizationType>
+			<LeaderType>LEADER_TUON_PAENDRAG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SEANCHAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TUON_PAENDRAG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TUON_PAENDRAG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CRYSTAL_THRONE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CRYSTAL_THRONE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TUON_PAENDRAG</LeaderAbilityIcon>
+			<Portrait>LEADER_TUON_PAENDRAG_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_RHUARC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHUARC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHUARC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TAARBAD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TAARBAD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHUARC</LeaderAbilityIcon>
+			<Portrait>LEADER_RHUARC_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_ISHAMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ISHAMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ISHAMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BETRAYER_HOPE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BETRAYER_HOPE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ISHAMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_ISHAMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DRAGON_REBORN</CivilizationType>
+			<LeaderType>LEADER_RAND_ALTHOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DRAGON_REBORN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAND_ALTHOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAND_ALTHOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KARAETHON_CYCLE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KARAETHON_CYCLE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAR_A_CARN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAR_A_CARN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAND_ALTHOR</LeaderAbilityIcon>
+			<Portrait>LEADER_RAND_ALTHOR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TWO_RIVERS</CivilizationType>
+			<LeaderType>LEADER_PERRIN_AYBARA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TWO_RIVERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PERRIN_AYBARA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PERRIN_AYBARA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MANETHEREN_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MANETHEREN_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_YOUNG_BULL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_YOUNG_BULL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PERRIN_AYBARA</LeaderAbilityIcon>
+			<Portrait>LEADER_PERRIN_AYBARA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BAND_RED_HAND</CivilizationType>
+			<LeaderType>LEADER_MAT_CAUTHON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BAND_RED_HAND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAT_CAUTHON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAT_CAUTHON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ITS_TIME_TOSS_DICE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ITS_TIME_TOSS_DICE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OFTHE_RAVENS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OFTHE_RAVENS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAT_CAUTHON</LeaderAbilityIcon>
+			<Portrait>LEADER_MAT_CAUTHON_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_MORGASE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MORGASE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LION_THORNE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LION_THORNE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_MORGASE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_SIUAN_SANCHE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SIUAN_SANCHE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SIUAN_SANCHE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BLUE_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BLUE_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SIUAN_SANCHE</LeaderAbilityIcon>
+			<Portrait>LEADER_SIUAN_SANCHE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_ELAIDA_AROIHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAIDA_AROIHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RED_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RED_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAIDA_AROIHAN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_COULADIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_COULADIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_COULADIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SHAIDO_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SHAIDO_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_COULADIN</LeaderAbilityIcon>
+			<Portrait>LEADER_COULADIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_DEMANDRED</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEMANDRED_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEMANDRED</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BARID_DEL_MEDAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BARID_DEL_MEDAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEMANDRED</LeaderAbilityIcon>
+			<Portrait>LEADER_DEMANDRED_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_SAMMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAMMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAMMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_BREND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_BREND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAMMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_SAMMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_RAHVIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAHVIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAHVIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_GAEBRIL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_GAEBRIL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAHVIN</LeaderAbilityIcon>
+			<Portrait>LEADER_RAHVIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_BELAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BELAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BELAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_SAMON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_SAMON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BELAL</LeaderAbilityIcon>
+			<Portrait>LEADER_BELAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_GRAENDAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GRAENDAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GRAENDAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_BASENE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_BASENE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GRAENDAL</LeaderAbilityIcon>
+			<Portrait>LEADER_GRAENDAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_ELAYNE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAYNE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TRAKAND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TRAKAND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAYNE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_EGWENE_ALVERE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EGWENE_ALVERE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EGWENE_ALVERE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITE_TOWER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITE_TOWER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EGWENE_ALVERE</LeaderAbilityIcon>
+			<Portrait>LEADER_EGWENE_ALVERE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHIENAR</CivilizationType>
+			<LeaderType>LEADER_EASAR_TOGITA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHIENAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHIENAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EASAR_TOGITA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EASAR_TOGITA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_PEACE_FAVOR_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_PEACE_FAVOR_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHIENAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TOGITA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TOGITA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EASAR_TOGITA</LeaderAbilityIcon>
+			<Portrait>LEADER_EASAR_TOGITA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KANDOR</CivilizationType>
+			<LeaderType>LEADER_EITHENIELLE_NORAMAGA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EITHENIELLE_NORAMAGA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_CLOUDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_CLOUDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_NORAMAGA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_NORAMAGA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderAbilityIcon>
+			<Portrait>LEADER_EITHENIELLE_NORAMAGA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SALDEA</CivilizationType>
+			<LeaderType>LEADER_TENOBIA_KAZADI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SALDEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TENOBIA_KAZADI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SALDEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_KAZADI_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_KAZADI_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderAbilityIcon>
+			<Portrait>LEADER_TENOBIA_KAZADI_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CAIRHIEN</CivilizationType>
+			<LeaderType>LEADER_GALLDRIAN_RIATIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CAIRHIEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GALLDRIAN_RIATIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAES_DAEMAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAES_DAEMAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_RIATIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_RIATIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderAbilityIcon>
+			<Portrait>LEADER_GALLDRIAN_RIATIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALTARA</CivilizationType>
+			<LeaderType>LEADER_TYLIN_MITSOBAR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTARA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTARA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TYLIN_MITSOBAR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_WINDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_WINDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTARA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_MITSOBAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_MITSOBAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderAbilityIcon>
+			<Portrait>LEADER_TYLIN_MITSOBAR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AMADICIA</CivilizationType>
+			<LeaderType>LEADER_PEDRON_NIALL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AMADICIA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AMADICIA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PEDRON_NIALL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PEDRON_NIALL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AMADICIA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PEDRON_NIALL</LeaderAbilityIcon>
+			<Portrait>LEADER_PEDRON_NIALL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_GHEALDAN</CivilizationType>
+			<LeaderType>LEADER_ALLIANDRE_KIGARIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GHEALDAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALLIANDRE_KIGARIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GARENS_WALL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GARENS_WALL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEFENDER_GAREN_WALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEFENDER_GAREN_WALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ALLIANDRE_KIGARIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TARABON</CivilizationType>
+			<LeaderType>LEADER_AMATHERA_LOUNAULT</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TARABON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TARABON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AMATHERA_LOUNAULT_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TREE_OF_MAN_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TREE_OF_MAN_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TARABON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PANARCH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PANARCH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderAbilityIcon>
+			<Portrait>LEADER_AMATHERA_LOUNAULT_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARAD_DOMAN</CivilizationType>
+			<LeaderType>LEADER_ALSALAM_ALMADA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARAD_DOMAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALSALAM_ALMADA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_COUNCIL_OF_MERCHANTS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_COUNCIL_OF_MERCHANTS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_ALMADAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_ALMADAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALSALAM_ALMADA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SEANCHAN</CivilizationType>
+			<LeaderType>LEADER_TUON_PAENDRAG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SEANCHAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TUON_PAENDRAG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TUON_PAENDRAG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CRYSTAL_THRONE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CRYSTAL_THRONE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TUON_PAENDRAG</LeaderAbilityIcon>
+			<Portrait>LEADER_TUON_PAENDRAG_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_RHUARC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHUARC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHUARC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TAARBAD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TAARBAD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHUARC</LeaderAbilityIcon>
+			<Portrait>LEADER_RHUARC_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_ISHAMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ISHAMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ISHAMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BETRAYER_HOPE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BETRAYER_HOPE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ISHAMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_ISHAMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_DRAGON_REBORN</CivilizationType>
+			<LeaderType>LEADER_RAND_ALTHOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DRAGON_REBORN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAND_ALTHOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAND_ALTHOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KARAETHON_CYCLE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KARAETHON_CYCLE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAR_A_CARN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAR_A_CARN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAND_ALTHOR</LeaderAbilityIcon>
+			<Portrait>LEADER_RAND_ALTHOR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TWO_RIVERS</CivilizationType>
+			<LeaderType>LEADER_PERRIN_AYBARA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TWO_RIVERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PERRIN_AYBARA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PERRIN_AYBARA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MANETHEREN_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MANETHEREN_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_YOUNG_BULL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_YOUNG_BULL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PERRIN_AYBARA</LeaderAbilityIcon>
+			<Portrait>LEADER_PERRIN_AYBARA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BAND_RED_HAND</CivilizationType>
+			<LeaderType>LEADER_MAT_CAUTHON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BAND_RED_HAND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAT_CAUTHON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAT_CAUTHON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ITS_TIME_TOSS_DICE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ITS_TIME_TOSS_DICE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OFTHE_RAVENS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OFTHE_RAVENS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAT_CAUTHON</LeaderAbilityIcon>
+			<Portrait>LEADER_MAT_CAUTHON_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_MORGASE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MORGASE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LION_THORNE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LION_THORNE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_MORGASE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_SIUAN_SANCHE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SIUAN_SANCHE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SIUAN_SANCHE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BLUE_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BLUE_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SIUAN_SANCHE</LeaderAbilityIcon>
+			<Portrait>LEADER_SIUAN_SANCHE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_ELAIDA_AROIHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAIDA_AROIHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RED_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RED_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAIDA_AROIHAN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_COULADIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_COULADIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_COULADIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SHAIDO_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SHAIDO_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_COULADIN</LeaderAbilityIcon>
+			<Portrait>LEADER_COULADIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_DEMANDRED</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEMANDRED_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEMANDRED</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BARID_DEL_MEDAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BARID_DEL_MEDAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEMANDRED</LeaderAbilityIcon>
+			<Portrait>LEADER_DEMANDRED_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_SAMMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAMMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAMMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_BREND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_BREND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAMMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_SAMMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_RAHVIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAHVIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAHVIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_GAEBRIL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_GAEBRIL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAHVIN</LeaderAbilityIcon>
+			<Portrait>LEADER_RAHVIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_BELAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BELAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BELAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_SAMON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_SAMON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BELAL</LeaderAbilityIcon>
+			<Portrait>LEADER_BELAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_GRAENDAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GRAENDAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GRAENDAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_BASENE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_BASENE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GRAENDAL</LeaderAbilityIcon>
+			<Portrait>LEADER_GRAENDAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_ELAYNE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAYNE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TRAKAND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TRAKAND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAYNE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAYNE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_EGWENE_ALVERE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EGWENE_ALVERE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EGWENE_ALVERE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITE_TOWER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITE_TOWER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EGWENE_ALVERE</LeaderAbilityIcon>
+			<Portrait>LEADER_EGWENE_ALVERE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHIENAR</CivilizationType>
+			<LeaderType>LEADER_EASAR_TOGITA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHIENAR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHIENAR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EASAR_TOGITA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EASAR_TOGITA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_PEACE_FAVOR_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_PEACE_FAVOR_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHIENAR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_TOGITA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_TOGITA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EASAR_TOGITA</LeaderAbilityIcon>
+			<Portrait>LEADER_EASAR_TOGITA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KANDOR</CivilizationType>
+			<LeaderType>LEADER_EITHENIELLE_NORAMAGA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EITHENIELLE_NORAMAGA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_CLOUDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_CLOUDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_NORAMAGA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_NORAMAGA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EITHENIELLE_NORAMAGA</LeaderAbilityIcon>
+			<Portrait>LEADER_EITHENIELLE_NORAMAGA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SALDEA</CivilizationType>
+			<LeaderType>LEADER_TENOBIA_KAZADI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SALDEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SALDEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TENOBIA_KAZADI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_YOU_FALL_I_TAKE_SWORD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SALDEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_KAZADI_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_KAZADI_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TENOBIA_KAZADI</LeaderAbilityIcon>
+			<Portrait>LEADER_TENOBIA_KAZADI_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CAIRHIEN</CivilizationType>
+			<LeaderType>LEADER_GALLDRIAN_RIATIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CAIRHIEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GALLDRIAN_RIATIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAES_DAEMAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAES_DAEMAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CAIRHIEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_RIATIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_RIATIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GALLDRIAN_RIATIN</LeaderAbilityIcon>
+			<Portrait>LEADER_GALLDRIAN_RIATIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALTARA</CivilizationType>
+			<LeaderType>LEADER_TYLIN_MITSOBAR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTARA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTARA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TYLIN_MITSOBAR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THRONE_OFTHE_WINDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THRONE_OFTHE_WINDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTARA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_MITSOBAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_MITSOBAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TYLIN_MITSOBAR</LeaderAbilityIcon>
+			<Portrait>LEADER_TYLIN_MITSOBAR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AMADICIA</CivilizationType>
+			<LeaderType>LEADER_PEDRON_NIALL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AMADICIA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AMADICIA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PEDRON_NIALL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PEDRON_NIALL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ANOINTED_BYTHE_LIGHT_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AMADICIA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILDREN_OFTHE_LIGHT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PEDRON_NIALL</LeaderAbilityIcon>
+			<Portrait>LEADER_PEDRON_NIALL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_GHEALDAN</CivilizationType>
+			<LeaderType>LEADER_ALLIANDRE_KIGARIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GHEALDAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALLIANDRE_KIGARIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GARENS_WALL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GARENS_WALL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GHEALDAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEFENDER_GAREN_WALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEFENDER_GAREN_WALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALLIANDRE_KIGARIN</LeaderAbilityIcon>
+			<Portrait>LEADER_ALLIANDRE_KIGARIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TARABON</CivilizationType>
+			<LeaderType>LEADER_AMATHERA_LOUNAULT</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TARABON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TARABON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AMATHERA_LOUNAULT_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TREE_OF_MAN_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TREE_OF_MAN_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TARABON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PANARCH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PANARCH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AMATHERA_LOUNAULT</LeaderAbilityIcon>
+			<Portrait>LEADER_AMATHERA_LOUNAULT_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARAD_DOMAN</CivilizationType>
+			<LeaderType>LEADER_ALSALAM_ALMADA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARAD_DOMAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALSALAM_ALMADA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_COUNCIL_OF_MERCHANTS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_COUNCIL_OF_MERCHANTS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARAD_DOMAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOUSE_ALMADAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOUSE_ALMADAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALSALAM_ALMADA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALSALAM_ALMADA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SEANCHAN</CivilizationType>
+			<LeaderType>LEADER_TUON_PAENDRAG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SEANCHAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TUON_PAENDRAG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TUON_PAENDRAG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CRYSTAL_THRONE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CRYSTAL_THRONE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SEANCHAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DAUGHTER_OFTHE_NINE_MOONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TUON_PAENDRAG</LeaderAbilityIcon>
+			<Portrait>LEADER_TUON_PAENDRAG_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_RHUARC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHUARC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHUARC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TAARBAD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TAARBAD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHUARC</LeaderAbilityIcon>
+			<Portrait>LEADER_RHUARC_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_ISHAMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ISHAMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ISHAMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BETRAYER_HOPE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BETRAYER_HOPE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ISHAMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_ISHAMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_DRAGON_REBORN</CivilizationType>
+			<LeaderType>LEADER_RAND_ALTHOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DRAGON_REBORN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAND_ALTHOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAND_ALTHOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KARAETHON_CYCLE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KARAETHON_CYCLE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DRAGON_REBORN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAR_A_CARN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAR_A_CARN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAND_ALTHOR</LeaderAbilityIcon>
+			<Portrait>LEADER_RAND_ALTHOR_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TWO_RIVERS</CivilizationType>
+			<LeaderType>LEADER_PERRIN_AYBARA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TWO_RIVERS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_PERRIN_AYBARA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_PERRIN_AYBARA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MANETHEREN_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MANETHEREN_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TWO_RIVERS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_YOUNG_BULL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_YOUNG_BULL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_PERRIN_AYBARA</LeaderAbilityIcon>
+			<Portrait>LEADER_PERRIN_AYBARA_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_BAND_RED_HAND</CivilizationType>
+			<LeaderType>LEADER_MAT_CAUTHON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BAND_RED_HAND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAT_CAUTHON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAT_CAUTHON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ITS_TIME_TOSS_DICE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ITS_TIME_TOSS_DICE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BAND_RED_HAND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OFTHE_RAVENS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OFTHE_RAVENS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAT_CAUTHON</LeaderAbilityIcon>
+			<Portrait>LEADER_MAT_CAUTHON_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ANDOR</CivilizationType>
+			<LeaderType>LEADER_MORGASE_TRAKAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ANDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ANDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MORGASE_TRAKAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_MATRIARCHAL_MONARCHY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_MATRIARCHAL_MONARCHY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ANDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LION_THORNE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LION_THORNE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MORGASE_TRAKAND</LeaderAbilityIcon>
+			<Portrait>LEADER_MORGASE_TRAKAND_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_SIUAN_SANCHE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SIUAN_SANCHE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SIUAN_SANCHE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BLUE_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BLUE_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SIUAN_SANCHE</LeaderAbilityIcon>
+			<Portrait>LEADER_SIUAN_SANCHE_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TAR_VALON</CivilizationType>
+			<LeaderType>LEADER_ELAIDA_AROIHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TAR_VALON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELAIDA_AROIHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAIDAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAIDAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TAR_VALON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RED_AJAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RED_AJAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELAIDA_AROIHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_ELAIDA_AROIHAN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AIEL</CivilizationType>
+			<LeaderType>LEADER_COULADIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AIEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AIEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_COULADIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_COULADIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THREE_FOLD_LAND_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THREE_FOLD_LAND_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AIEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SHAIDO_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SHAIDO_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_COULADIN</LeaderAbilityIcon>
+			<Portrait>LEADER_COULADIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_DEMANDRED</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEMANDRED_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEMANDRED</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BARID_DEL_MEDAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BARID_DEL_MEDAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEMANDRED</LeaderAbilityIcon>
+			<Portrait>LEADER_DEMANDRED_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_SAMMAEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAMMAEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAMMAEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_BREND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_BREND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAMMAEL</LeaderAbilityIcon>
+			<Portrait>LEADER_SAMMAEL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_RAHVIN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RAHVIN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RAHVIN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_GAEBRIL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_GAEBRIL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RAHVIN</LeaderAbilityIcon>
+			<Portrait>LEADER_RAHVIN_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_BELAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BELAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BELAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_SAMON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_SAMON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BELAL</LeaderAbilityIcon>
+			<Portrait>LEADER_BELAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SHAI_TAN</CivilizationType>
+			<LeaderType>LEADER_GRAENDAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SHAI_TAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GRAENDAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GRAENDAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_LORD_OFTHE_GRAVE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_LORD_OFTHE_GRAVE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SHAI_TAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_BASENE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_BASENE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GRAENDAL</LeaderAbilityIcon>
+			<Portrait>LEADER_GRAENDAL_NEUTRAL</Portrait>
+			<PortraitBackground>WOT_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_YOUNGLINS" Icon="ICON_UNIT_YOUNGLINS" Name="LOC_UNIT_YOUNGLINS_NAME" Description="LOC_UNIT_YOUNGLINS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_TOPKNOT_CAVALRY" Icon="ICON_UNIT_TOPKNOT_CAVALRY" Name="LOC_UNIT_TOPKNOT_CAVALRY_NAME" Description="LOC_UNIT_TOPKNOT_CAVALRY_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="DISTRICT_COMMUNAL_BATH" Icon="ICON_DISTRICT_COMMUNAL_BATH" Name="LOC_DISTRICT_COMMUNAL_BATH_NAME" Description="LOC_DISTRICT_COMMUNAL_BATH_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="DISTRICT_KANDOR_MERCHANT_GUILD" Icon="ICON_DISTRICT_KANDOR_MERCHANT_GUILD" Name="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_NAME" Description="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="IMPROVEMENT_BLIGHTBORDER_TOWER" Icon="ICON_IMPROVEMENT_BLIGHTBORDER_TOWER" Name="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_NAME" Description="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_SERPENT_SWORD_CAV" Icon="ICON_UNIT_SERPENT_SWORD_CAV" Name="LOC_UNIT_SERPENT_SWORD_CAV_NAME" Description="LOC_UNIT_SERPENT_SWORD_CAV_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CAIRHIEN" LeaderType="LEADER_GALLDRIAN_RIATIN" Type="IMPROVEMENT_NOBLE_MANOR_HOUSE" Icon="ICON_IMPROVEMENT_NOBLE_MANOR_HOUSE" Name="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_NAME" Description="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_DESCRIPTION" SortIndex="10"/>
+		
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_FOUNTAIN_SQUARE" Icon="ICON_BUILDING_FOUNTAIN_SQUARE" Name="LOC_BUILDING_FOUNTAIN_SQUARE_NAME" Description="LOC_BUILDING_FOUNTAIN_SQUARE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_HORSE_RACETRACK" Icon="ICON_BUILDING_HORSE_RACETRACK" Name="LOC_BUILDING_HORSE_RACETRACK_NAME" Description="LOC_BUILDING_HORSE_RACETRACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AMADICIA" LeaderType="LEADER_PEDRON_NIALL" Type="UNIT_WHITECLOAK" Icon="ICON_UNIT_WHITECLOAK" Name="LOC_UNIT_WHITECLOAK_NAME" Description="LOC_UNIT_WHITECLOAK_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GHEALDAN" LeaderType="LEADER_ALLIANDRE_KIGARIN" Type="UNIT_LEGION_OFTHE_WALL" Icon="ICON_UNIT_LEGION_OFTHE_WALL" Name="LOC_UNIT_LEGION_OFTHE_WALL_NAME" Description="LOC_UNIT_LEGION_OFTHE_WALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TARABON" LeaderType="LEADER_AMATHERA_LOUNAULT" Type="BUILDING_ILLUMINATORS_GUILD_HALL" Icon="ICON_BUILDING_ILLUMINATORS_GUILD_HALL" Name="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_NAME" Description="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="BUILDING_DOMANI_LIBRARY" Icon="ICON_BUILDING_DOMANI_LIBRARY" Name="LOC_BUILDING_DOMANI_LIBRARY_NAME" Description="LOC_BUILDING_DOMANI_LIBRARY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DEATHWATCH_GUARD" Icon="ICON_UNIT_DEATHWATCH_GUARD" Name="LOC_UNIT_DEATHWATCH_GUARD_NAME" Description="LOC_UNIT_DEATHWATCH_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GARDENERS" Icon="ICON_UNIT_GARDENERS" Name="LOC_UNIT_GARDENERS_NAME" Description="LOC_UNIT_GARDENERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_SREDIT" Icon="ICON_UNIT_SREDIT" Name="LOC_UNIT_SREDIT_NAME" Description="LOC_UNIT_SREDIT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_TORAKEN" Icon="ICON_UNIT_TORAKEN" Name="LOC_UNIT_TORAKEN_NAME" Description="LOC_UNIT_TORAKEN_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DAMANE" Icon="ICON_UNIT_DAMANE" Name="LOC_UNIT_DAMANE_NAME" Description="LOC_UNIT_DAMANE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GROLM" Icon="ICON_UNIT_GROLM" Name="LOC_UNIT_GROLM_NAME" Description="LOC_UNIT_GROLM_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_MORATTORM" Icon="ICON_UNIT_MORATTORM" Name="LOC_UNIT_MORATTORM_NAME" Description="LOC_UNIT_MORATTORM_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_SHARAN_GUARD" Icon="ICON_UNIT_SHARAN_GUARD" Name="LOC_UNIT_SHARAN_GUARD_NAME" Description="LOC_UNIT_SHARAN_GUARD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WHITE_LIONS" Icon="ICON_UNIT_WHITE_LIONS" Name="LOC_UNIT_WHITE_LIONS_NAME" Description="LOC_UNIT_WHITE_LIONS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_ILLIAN_COMPANIONS" Icon="ICON_UNIT_ILLIAN_COMPANIONS" Name="LOC_UNIT_ILLIAN_COMPANIONS_NAME" Description="LOC_UNIT_ILLIAN_COMPANIONS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_LEGION_OFTHE_DRAGON" Icon="ICON_UNIT_LEGION_OFTHE_DRAGON" Name="LOC_UNIT_LEGION_OFTHE_DRAGON_NAME" Description="LOC_UNIT_LEGION_OFTHE_DRAGON_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_ASHAMAN" Icon="ICON_UNIT_ASHAMAN" Name="LOC_UNIT_ASHAMAN_NAME" Description="LOC_UNIT_ASHAMAN_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_LONGBOWMEN" Icon="ICON_UNIT_WOLF_LONGBOWMEN" Name="LOC_UNIT_WOLF_LONGBOWMEN_NAME" Description="LOC_UNIT_WOLF_LONGBOWMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_PACK" Icon="ICON_UNIT_WOLF_PACK" Name="LOC_UNIT_WOLF_PACK_NAME" Description="LOC_UNIT_WOLF_PACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BAND_RED_HAND" LeaderType="LEADER_MAT_CAUTHON" Type="UNIT_DRAGON_CANNON" Icon="ICON_UNIT_DRAGON_CANNON" Name="LOC_UNIT_DRAGON_CANNON_NAME" Description="LOC_UNIT_DRAGON_CANNON_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_YOUNGLINS" Icon="ICON_UNIT_YOUNGLINS" Name="LOC_UNIT_YOUNGLINS_NAME" Description="LOC_UNIT_YOUNGLINS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_TOPKNOT_CAVALRY" Icon="ICON_UNIT_TOPKNOT_CAVALRY" Name="LOC_UNIT_TOPKNOT_CAVALRY_NAME" Description="LOC_UNIT_TOPKNOT_CAVALRY_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="DISTRICT_COMMUNAL_BATH" Icon="ICON_DISTRICT_COMMUNAL_BATH" Name="LOC_DISTRICT_COMMUNAL_BATH_NAME" Description="LOC_DISTRICT_COMMUNAL_BATH_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="DISTRICT_KANDOR_MERCHANT_GUILD" Icon="ICON_DISTRICT_KANDOR_MERCHANT_GUILD" Name="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_NAME" Description="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="IMPROVEMENT_BLIGHTBORDER_TOWER" Icon="ICON_IMPROVEMENT_BLIGHTBORDER_TOWER" Name="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_NAME" Description="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_SERPENT_SWORD_CAV" Icon="ICON_UNIT_SERPENT_SWORD_CAV" Name="LOC_UNIT_SERPENT_SWORD_CAV_NAME" Description="LOC_UNIT_SERPENT_SWORD_CAV_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CAIRHIEN" LeaderType="LEADER_GALLDRIAN_RIATIN" Type="IMPROVEMENT_NOBLE_MANOR_HOUSE" Icon="ICON_IMPROVEMENT_NOBLE_MANOR_HOUSE" Name="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_NAME" Description="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_FOUNTAIN_SQUARE" Icon="ICON_BUILDING_FOUNTAIN_SQUARE" Name="LOC_BUILDING_FOUNTAIN_SQUARE_NAME" Description="LOC_BUILDING_FOUNTAIN_SQUARE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_HORSE_RACETRACK" Icon="ICON_BUILDING_HORSE_RACETRACK" Name="LOC_BUILDING_HORSE_RACETRACK_NAME" Description="LOC_BUILDING_HORSE_RACETRACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AMADICIA" LeaderType="LEADER_PEDRON_NIALL" Type="UNIT_WHITECLOAK" Icon="ICON_UNIT_WHITECLOAK" Name="LOC_UNIT_WHITECLOAK_NAME" Description="LOC_UNIT_WHITECLOAK_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GHEALDAN" LeaderType="LEADER_ALLIANDRE_KIGARIN" Type="UNIT_LEGION_OFTHE_WALL" Icon="ICON_UNIT_LEGION_OFTHE_WALL" Name="LOC_UNIT_LEGION_OFTHE_WALL_NAME" Description="LOC_UNIT_LEGION_OFTHE_WALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TARABON" LeaderType="LEADER_AMATHERA_LOUNAULT" Type="BUILDING_ILLUMINATORS_GUILD_HALL" Icon="ICON_BUILDING_ILLUMINATORS_GUILD_HALL" Name="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_NAME" Description="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="BUILDING_DOMANI_LIBRARY" Icon="ICON_BUILDING_DOMANI_LIBRARY" Name="LOC_BUILDING_DOMANI_LIBRARY_NAME" Description="LOC_BUILDING_DOMANI_LIBRARY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DEATHWATCH_GUARD" Icon="ICON_UNIT_DEATHWATCH_GUARD" Name="LOC_UNIT_DEATHWATCH_GUARD_NAME" Description="LOC_UNIT_DEATHWATCH_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GARDENERS" Icon="ICON_UNIT_GARDENERS" Name="LOC_UNIT_GARDENERS_NAME" Description="LOC_UNIT_GARDENERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_SREDIT" Icon="ICON_UNIT_SREDIT" Name="LOC_UNIT_SREDIT_NAME" Description="LOC_UNIT_SREDIT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_TORAKEN" Icon="ICON_UNIT_TORAKEN" Name="LOC_UNIT_TORAKEN_NAME" Description="LOC_UNIT_TORAKEN_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DAMANE" Icon="ICON_UNIT_DAMANE" Name="LOC_UNIT_DAMANE_NAME" Description="LOC_UNIT_DAMANE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GROLM" Icon="ICON_UNIT_GROLM" Name="LOC_UNIT_GROLM_NAME" Description="LOC_UNIT_GROLM_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_MORATTORM" Icon="ICON_UNIT_MORATTORM" Name="LOC_UNIT_MORATTORM_NAME" Description="LOC_UNIT_MORATTORM_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_SHARAN_GUARD" Icon="ICON_UNIT_SHARAN_GUARD" Name="LOC_UNIT_SHARAN_GUARD_NAME" Description="LOC_UNIT_SHARAN_GUARD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WHITE_LIONS" Icon="ICON_UNIT_WHITE_LIONS" Name="LOC_UNIT_WHITE_LIONS_NAME" Description="LOC_UNIT_WHITE_LIONS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_ILLIAN_COMPANIONS" Icon="ICON_UNIT_ILLIAN_COMPANIONS" Name="LOC_UNIT_ILLIAN_COMPANIONS_NAME" Description="LOC_UNIT_ILLIAN_COMPANIONS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_LEGION_OFTHE_DRAGON" Icon="ICON_UNIT_LEGION_OFTHE_DRAGON" Name="LOC_UNIT_LEGION_OFTHE_DRAGON_NAME" Description="LOC_UNIT_LEGION_OFTHE_DRAGON_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_ASHAMAN" Icon="ICON_UNIT_ASHAMAN" Name="LOC_UNIT_ASHAMAN_NAME" Description="LOC_UNIT_ASHAMAN_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_LONGBOWMEN" Icon="ICON_UNIT_WOLF_LONGBOWMEN" Name="LOC_UNIT_WOLF_LONGBOWMEN_NAME" Description="LOC_UNIT_WOLF_LONGBOWMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_PACK" Icon="ICON_UNIT_WOLF_PACK" Name="LOC_UNIT_WOLF_PACK_NAME" Description="LOC_UNIT_WOLF_PACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BAND_RED_HAND" LeaderType="LEADER_MAT_CAUTHON" Type="UNIT_DRAGON_CANNON" Icon="ICON_UNIT_DRAGON_CANNON" Name="LOC_UNIT_DRAGON_CANNON_NAME" Description="LOC_UNIT_DRAGON_CANNON_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="UNIT_QUEENS_GUARD" Icon="ICON_UNIT_QUEENS_GUARD" Name="LOC_UNIT_QUEENS_GUARD_NAME" Description="LOC_UNIT_QUEENS_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_ELAYNE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ANDOR" LeaderType="LEADER_MORGASE_TRAKAND" Type="BUILDING_UNDERGROUND_CISTERN" Icon="ICON_BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_AES_SEDAI" Icon="ICON_UNIT_AES_SEDAI" Name="LOC_UNIT_AES_SEDAI_NAME" Description="LOC_UNIT_AES_SEDAI_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_GAIDIN" Icon="ICON_UNIT_GAIDIN" Name="LOC_UNIT_GAIDIN_NAME" Description="LOC_UNIT_GAIDIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="UNIT_YOUNGLINS" Icon="ICON_UNIT_YOUNGLINS" Name="LOC_UNIT_YOUNGLINS_NAME" Description="LOC_UNIT_YOUNGLINS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="UNIT_TOWER_GUARD" Icon="ICON_UNIT_TOWER_GUARD" Name="LOC_UNIT_TOWER_GUARD_NAME" Description="LOC_UNIT_TOWER_GUARD_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_EGWENE_ALVERE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_SIUAN_SANCHE" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TAR_VALON" LeaderType="LEADER_ELAIDA_AROIHAN" Type="DISTRICT_DEPOSITORY" Icon="ICON_DISTRICT_DEPOSITORY" Name="LOC_DISTRICT_DEPOSITORY_NAME" Description="LOC_DISTRICT_DEPOSITORY_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_TOPKNOT_CAVALRY" Icon="ICON_UNIT_TOPKNOT_CAVALRY" Name="LOC_UNIT_TOPKNOT_CAVALRY_NAME" Description="LOC_UNIT_TOPKNOT_CAVALRY_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHIENAR" LeaderType="LEADER_EASAR_TOGITA" Type="DISTRICT_COMMUNAL_BATH" Icon="ICON_DISTRICT_COMMUNAL_BATH" Name="LOC_DISTRICT_COMMUNAL_BATH_NAME" Description="LOC_DISTRICT_COMMUNAL_BATH_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="DISTRICT_KANDOR_MERCHANT_GUILD" Icon="ICON_DISTRICT_KANDOR_MERCHANT_GUILD" Name="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_NAME" Description="LOC_DISTRICT_KANDOR_MERCHANT_GUILD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KANDOR" LeaderType="LEADER_EITHENIELLE_NORAMAGA" Type="IMPROVEMENT_BLIGHTBORDER_TOWER" Icon="ICON_IMPROVEMENT_BLIGHTBORDER_TOWER" Name="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_NAME" Description="LOC_IMPROVEMENT_BLIGHTBORDER_TOWER_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_SERPENT_SWORD_CAV" Icon="ICON_UNIT_SERPENT_SWORD_CAV" Name="LOC_UNIT_SERPENT_SWORD_CAV_NAME" Description="LOC_UNIT_SERPENT_SWORD_CAV_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SALDEA" LeaderType="LEADER_TENOBIA_KAZADI" Type="UNIT_BORDERLANDER" Icon="ICON_UNIT_BORDERLANDER" Name="LOC_UNIT_BORDERLANDER_NAME" Description="LOC_UNIT_BORDERLANDER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CAIRHIEN" LeaderType="LEADER_GALLDRIAN_RIATIN" Type="IMPROVEMENT_NOBLE_MANOR_HOUSE" Icon="ICON_IMPROVEMENT_NOBLE_MANOR_HOUSE" Name="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_NAME" Description="LOC_IMPROVEMENT_NOBLE_MANOR_HOUSE_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_FOUNTAIN_SQUARE" Icon="ICON_BUILDING_FOUNTAIN_SQUARE" Name="LOC_BUILDING_FOUNTAIN_SQUARE_NAME" Description="LOC_BUILDING_FOUNTAIN_SQUARE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALTARA" LeaderType="LEADER_TYLIN_MITSOBAR" Type="BUILDING_HORSE_RACETRACK" Icon="ICON_BUILDING_HORSE_RACETRACK" Name="LOC_BUILDING_HORSE_RACETRACK_NAME" Description="LOC_BUILDING_HORSE_RACETRACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AMADICIA" LeaderType="LEADER_PEDRON_NIALL" Type="UNIT_WHITECLOAK" Icon="ICON_UNIT_WHITECLOAK" Name="LOC_UNIT_WHITECLOAK_NAME" Description="LOC_UNIT_WHITECLOAK_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GHEALDAN" LeaderType="LEADER_ALLIANDRE_KIGARIN" Type="UNIT_LEGION_OFTHE_WALL" Icon="ICON_UNIT_LEGION_OFTHE_WALL" Name="LOC_UNIT_LEGION_OFTHE_WALL_NAME" Description="LOC_UNIT_LEGION_OFTHE_WALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TARABON" LeaderType="LEADER_AMATHERA_LOUNAULT" Type="BUILDING_ILLUMINATORS_GUILD_HALL" Icon="ICON_BUILDING_ILLUMINATORS_GUILD_HALL" Name="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_NAME" Description="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARAD_DOMAN" LeaderType="LEADER_ALSALAM_ALMADA" Type="BUILDING_DOMANI_LIBRARY" Icon="ICON_BUILDING_DOMANI_LIBRARY" Name="LOC_BUILDING_DOMANI_LIBRARY_NAME" Description="LOC_BUILDING_DOMANI_LIBRARY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DEATHWATCH_GUARD" Icon="ICON_UNIT_DEATHWATCH_GUARD" Name="LOC_UNIT_DEATHWATCH_GUARD_NAME" Description="LOC_UNIT_DEATHWATCH_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GARDENERS" Icon="ICON_UNIT_GARDENERS" Name="LOC_UNIT_GARDENERS_NAME" Description="LOC_UNIT_GARDENERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_SREDIT" Icon="ICON_UNIT_SREDIT" Name="LOC_UNIT_SREDIT_NAME" Description="LOC_UNIT_SREDIT_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_TORAKEN" Icon="ICON_UNIT_TORAKEN" Name="LOC_UNIT_TORAKEN_NAME" Description="LOC_UNIT_TORAKEN_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_DAMANE" Icon="ICON_UNIT_DAMANE" Name="LOC_UNIT_DAMANE_NAME" Description="LOC_UNIT_DAMANE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_GROLM" Icon="ICON_UNIT_GROLM" Name="LOC_UNIT_GROLM_NAME" Description="LOC_UNIT_GROLM_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SEANCHAN" LeaderType="LEADER_TUON_PAENDRAG" Type="UNIT_MORATTORM" Icon="ICON_UNIT_MORATTORM" Name="LOC_UNIT_MORATTORM_NAME" Description="LOC_UNIT_MORATTORM_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MAIDENS_SPEAR" Icon="ICON_UNIT_MAIDENS_SPEAR" Name="LOC_UNIT_MAIDENS_SPEAR_NAME" Description="LOC_UNIT_MAIDENS_SPEAR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_STONE_DOGS" Icon="ICON_UNIT_STONE_DOGS" Name="LOC_UNIT_STONE_DOGS_NAME" Description="LOC_UNIT_STONE_DOGS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_THUNDER_WALKERS" Icon="ICON_UNIT_THUNDER_WALKERS" Name="LOC_UNIT_THUNDER_WALKERS_NAME" Description="LOC_UNIT_THUNDER_WALKERS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_RHUARC" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AIEL" LeaderType="LEADER_COULADIN" Type="UNIT_KNIFE_HANDS" Icon="ICON_UNIT_KNIFE_HANDS" Name="LOC_UNIT_KNIFE_HANDS_NAME" Description="LOC_UNIT_KNIFE_HANDS_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_GOAT_TROLLOC" Icon="ICON_UNIT_GOAT_TROLLOC" Name="LOC_UNIT_GOAT_TROLLOC_NAME" Description="LOC_UNIT_GOAT_TROLLOC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_BOAR_TROLLOC" Icon="ICON_UNIT_BOAR_TROLLOC" Name="LOC_UNIT_BOAR_TROLLOC_NAME" Description="LOC_UNIT_BOAR_TROLLOC_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_SHARAN_GUARD" Icon="ICON_UNIT_SHARAN_GUARD" Name="LOC_UNIT_SHARAN_GUARD_NAME" Description="LOC_UNIT_SHARAN_GUARD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WHITE_LIONS" Icon="ICON_UNIT_WHITE_LIONS" Name="LOC_UNIT_WHITE_LIONS_NAME" Description="LOC_UNIT_WHITE_LIONS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_WOLF_TROLLOC" Icon="ICON_UNIT_WOLF_TROLLOC" Name="LOC_UNIT_WOLF_TROLLOC_NAME" Description="LOC_UNIT_WOLF_TROLLOC_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_EAGLE_TROLLOC" Icon="ICON_UNIT_EAGLE_TROLLOC" Name="LOC_UNIT_EAGLE_TROLLOC_NAME" Description="LOC_UNIT_EAGLE_TROLLOC_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_DRAGHKAR" Icon="ICON_UNIT_DRAGHKAR" Name="LOC_UNIT_DRAGHKAR_NAME" Description="LOC_UNIT_DRAGHKAR_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_RAZOR_RIDER" Icon="ICON_UNIT_RAZOR_RIDER" Name="LOC_UNIT_RAZOR_RIDER_NAME" Description="LOC_UNIT_RAZOR_RIDER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_ILLIAN_COMPANIONS" Icon="ICON_UNIT_ILLIAN_COMPANIONS" Name="LOC_UNIT_ILLIAN_COMPANIONS_NAME" Description="LOC_UNIT_ILLIAN_COMPANIONS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_DARKHOUND_PACK" Icon="ICON_UNIT_DARKHOUND_PACK" Name="LOC_UNIT_DARKHOUND_PACK_NAME" Description="LOC_UNIT_DARKHOUND_PACK_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_ISHAMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_DEMANDRED" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_SAMMAEL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_RAHVIN" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_BELAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SHAI_TAN" LeaderType="LEADER_GRAENDAL" Type="UNIT_MYRDDRAAL" Icon="ICON_UNIT_MYRDDRAAL" Name="LOC_UNIT_MYRDDRAAL_NAME" Description="LOC_UNIT_MYRDDRAAL_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_MOUNTAIN_DANCERS" Icon="ICON_UNIT_MOUNTAIN_DANCERS" Name="LOC_UNIT_MOUNTAIN_DANCERS_NAME" Description="LOC_UNIT_MOUNTAIN_DANCERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DAWN_RUNNERS" Icon="ICON_UNIT_DAWN_RUNNERS" Name="LOC_UNIT_DAWN_RUNNERS_NAME" Description="LOC_UNIT_DAWN_RUNNERS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_DEFENDERS_OFTHE_STONE" Icon="ICON_UNIT_DEFENDERS_OFTHE_STONE" Name="LOC_UNIT_DEFENDERS_OFTHE_STONE_NAME" Description="LOC_UNIT_DEFENDERS_OFTHE_STONE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_LEGION_OFTHE_DRAGON" Icon="ICON_UNIT_LEGION_OFTHE_DRAGON" Name="LOC_UNIT_LEGION_OFTHE_DRAGON_NAME" Description="LOC_UNIT_LEGION_OFTHE_DRAGON_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DRAGON_REBORN" LeaderType="LEADER_RAND_ALTHOR" Type="UNIT_ASHAMAN" Icon="ICON_UNIT_ASHAMAN" Name="LOC_UNIT_ASHAMAN_NAME" Description="LOC_UNIT_ASHAMAN_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_LONGBOWMEN" Icon="ICON_UNIT_WOLF_LONGBOWMEN" Name="LOC_UNIT_WOLF_LONGBOWMEN_NAME" Description="LOC_UNIT_WOLF_LONGBOWMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TWO_RIVERS" LeaderType="LEADER_PERRIN_AYBARA" Type="UNIT_WOLF_PACK" Icon="ICON_UNIT_WOLF_PACK" Name="LOC_UNIT_WOLF_PACK_NAME" Description="LOC_UNIT_WOLF_PACK_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BAND_RED_HAND" LeaderType="LEADER_MAT_CAUTHON" Type="UNIT_DRAGON_CANNON" Icon="ICON_UNIT_DRAGON_CANNON" Name="LOC_UNIT_DRAGON_CANNON_NAME" Description="LOC_UNIT_DRAGON_CANNON_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+</GameData>

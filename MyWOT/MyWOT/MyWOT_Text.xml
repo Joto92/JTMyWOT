@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_WOT_DISTRICT_MOUNTAIN_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Mountain</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DISTRICT_COAST_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Coast</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DISTRICT_DESERT_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DISTRICT_DESERT_HILLS_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert Hills</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DISTRICT_RIVER_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DISTRICT_CAMP_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent to Camps.</Text>
+		</Row>
+		<!-- ANDOR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELAYNE_TRAKAND" Language="en_US">
+			<Text>Elayne Trakand, by the Grace of the Light, Queen of Andor, Defender of the Realm, Protector of the People, High Seat of House Trakand. Acknowledged to be potentially one of the greatest Queens of Andor since its founding, she has shown intellect, delicacy and diplomacy in her doings and is an accomplished player at Daes Dae'mar. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAEMLYN" Language="en_US" Text="Caemlyn"/>
+		<Row Tag="LOC_CITY_NAME_ARINGILL" Language="en_US" Text="Aringill"/>
+		<Row Tag="LOC_CITY_NAME_FOUR_KINGS" Language="en_US" Text="Four Kings"/>
+		<Row Tag="LOC_CITY_NAME_WHITEBRIDGE" Language="en_US" Text="Whitebridge"/>
+		<Row Tag="LOC_CITY_NAME_NEW_BRAEM" Language="en_US" Text="New Braem"/>
+		<Row Tag="LOC_CITY_NAME_CULLENS_CROSSING" Language="en_US" Text="Cullen's Crossing"/>
+		<Row Tag="LOC_CITY_NAME_BAERLON" Language="en_US" Text="Baerlon"/>
+		<Row Tag="LOC_CITY_NAME_ARIEN" Language="en_US" Text="Arien"/>
+		<Row Tag="LOC_CITY_NAME_EMONDS_FIELD" Language="en_US" Text="Emond's Field"/>
+		<Row Tag="LOC_CITY_NAME_BURYHILL" Language="en_US" Text="Buryhill"/>
+		<Row Tag="LOC_CITY_NAME_CARYSFORD" Language="en_US" Text="Carysford"/>
+		<Row Tag="LOC_CITY_NAME_BREENS_SPRING" Language="en_US" Text="Breen's Spring"/>
+		<Row Tag="LOC_CITY_NAME_JORNHILL" Language="en_US" Text="Jornhill"/>
+		<Row Tag="LOC_CITY_NAME_KORE_SPRINGS" Language="en_US" Text="Kore Springs"/>
+		<Row Tag="LOC_CITY_NAME_MARKET_SHERAN" Language="en_US" Text="Market Sheran"/>
+		<Row Tag="LOC_CITY_NAME_HARLON_BRIDGE" Language="en_US" Text="Harlon Bridge"/>
+		<Row Tag="LOC_CITY_NAME_DAMELIEN" Language="en_US" Text="Damelien"/>
+		<Row Tag="LOC_CITY_NAME_WATCH_HILL" Language="en_US" Text="Watch Hill"/>
+		<Row Tag="LOC_CITY_NAME_FOREL_MARKET" Language="en_US" Text="Forel Market"/>
+		<Row Tag="LOC_CITY_NAME_TAREN_FERRY" Language="en_US" Text="Taren Ferry"/>
+		<Row Tag="LOC_CITY_NAME_SHELDYN" Language="en_US" Text="Sheldyn"/>
+		<Row Tag="LOC_CITY_NAME_COMFREY" Language="en_US" Text="Comfrey"/>
+		<Row Tag="LOC_CITY_NAME_DEVEN_RIDE" Language="en_US" Text="Deven Ride"/>
+		<Row Tag="LOC_CITY_NAME_DANABAR" Language="en_US" Text="Danabar"/>
+		<Row Tag="LOC_CITY_NAME_ANSHAR_KEEP" Language="en_US" Text="Anshar Keep"/>
+		<Row Tag="LOC_CITY_NAME_BARYN_HOLD" Language="en_US" Text="Baryn Hold"/>
+		<Row Tag="LOC_CITY_NAME_BRYEN_FORT" Language="en_US" Text="Bryne Fort"/>
+		<Row Tag="LOC_CITY_NAME_CAEREN_KEEP" Language="en_US" Text="Caeren Keep"/>
+		<Row Tag="LOC_CITY_NAME_ARAWN_HOLD" Language="en_US" Text="Arawn Hold"/>
+		<Row Tag="LOC_CITY_NAME_COELAN_FORT" Language="en_US" Text="Coelan Fort"/>
+		<Row Tag="LOC_CITY_NAME_NORWELYN_KEEP" Language="en_US" Text="Norwelyn Keep"/>
+		<Row Tag="LOC_CITY_NAME_TRAKAND_HOLD" Language="en_US" Text="Trakand Hold"/>
+		<Row Tag="LOC_CITY_NAME_ARMAGHN_FORT" Language="en_US" Text="Armaghn Fort"/>
+		<Row Tag="LOC_CITY_NAME_MATHERIN_KEEP" Language="en_US" Text="Matherin Keep"/>
+		<Row Tag="LOC_CITY_NAME_CANDRAED_HOLD" Language="en_US" Text="Candraed Hold"/>
+		<Row Tag="LOC_CITY_NAME_TRAEMANE_KEEP" Language="en_US" Text="Traemane Keep"/>
+		<Row Tag="LOC_CITY_NAME_CARAND_FORT" Language="en_US" Text="Carand Fort"/>
+		<Row Tag="LOC_CITY_NAME_GILYARD_KEEP" Language="en_US" Text="Gilyard Keep"/>
+		<Row Tag="LOC_CITY_NAME_TRAVIN_HOLD" Language="en_US" Text="Taravin Hold"/>
+		<Row Tag="LOC_CITY_NAME_RENSHAR_FORT" Language="en_US" Text="Renshar Fort"/>
+		<Row Tag="LOC_CITY_NAME_MARNE_KEEP" Language="en_US" Text="Marne Keep"/>
+		<Row Tag="LOC_CITY_NAME_SARAND_HOLD" Language="en_US" Text="Sarand Hold"/>
+		<Row Tag="LOC_CITY_NAME_NORTHAN_KEEP" Language="en_US" Text="Northan Keep"/>
+		<Row Tag="LOC_CITY_NAME_PENSENOR_FORT" Language="en_US" Text="Pensenor Fort"/>
+		<Row Tag="LOC_CITY_NAME_HAEVIN_KEEP" Language="en_US" Text="Haevin Keep"/>
+		<Row Tag="LOC_CITY_NAME_TALKEND_HOLD" Language="en_US" Text="Talkend Hold"/>
+		<Row Tag="LOC_CITY_NAME_PENDAR_KEEP" Language="en_US" Text="Pendar Keep"/>
+		<Row Tag="LOC_CITY_NAME_MANTEAR_FORT" Language="en_US" Text="Mantear Fort"/>
+		<Row Tag="LOC_CITY_NAME_NEW_ARIDHOL" Language="en_US" Text="New Aridhol"/>
+		<Row Tag="LOC_CITY_NAME_NEW_SHAEMAL" Language="en_US" Text="New Shaemal"/>
+		<!-- TAR VALON -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EGWENE_ALVERE" Language="en_US">
+			<Text>Egwene is one of the strongest female channelers seen in over a thousand years. he is also the first Aes Sedai Dreamer to have been discovered since Corianin Nedeal, who died approximately 473 years.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAR_VALON" Language="en_US" Text="Tar Valon"/>
+		<Row Tag="LOC_CITY_NAME_DAREIN" Language="en_US" Text="Darein"/>
+		<Row Tag="LOC_CITY_NAME_JUALDE" Language="en_US" Text="Jualde"/>
+		<Row Tag="LOC_CITY_NAME_ALINDAER" Language="en_US" Text="Alindaer"/>
+		<Row Tag="LOC_CITY_NAME_NEGIN_BRIDGE" Language="en_US" Text="Negin Bridge"/>
+		<Row Tag="LOC_CITY_NAME_LUGAGDE" Language="en_US" Text="Lugagde"/>
+		<Row Tag="LOC_CITY_NAME_DAGHAIN" Language="en_US" Text="Daghain"/>
+		<Row Tag="LOC_CITY_NAME_OSENREIN" Language="en_US" Text="Osenrein"/>
+		<Row Tag="LOC_CITY_NAME_DORLAN" Language="en_US" Text="Dorlan"/>
+		<Row Tag="LOC_CITY_NAME_GORIEN_SPRINGS" Language="en_US" Text="Gorien Springs"/>
+		<Row Tag="LOC_CITY_NAME_DENHUIR" Language="en_US" Text="Denhuir"/>
+		<Row Tag="LOC_CITY_NAME_ALIANELLE" Language="en_US" Text="Alianelle Spring"/>
+		<Row Tag="LOC_CITY_NAME_DUMAIS_WELLS" Language="en_US" Text="Dumai's Wells"/>
+		<Row Tag="LOC_CITY_NAME_MERRILOR" Language="en_US" Text="Merrilor"/>
+		<Row Tag="LOC_CITY_NAME_SALIDAR" Language="en_US" Text="Salidar"/>
+		<Row Tag="LOC_CITY_NAME_TISHAR_GRACE" Language="en_US" Text="Tishar Grace"/>
+		<Row Tag="LOC_CITY_NAME_KERENMOSA_TOWN" Language="en_US" Text="Kerenmosa Town"/>
+		<Row Tag="LOC_CITY_NAME_ARYMAN_SPRINGS" Language="en_US" Text="Aryman Springs"/>
+		<Row Tag="LOC_CITY_NAME_OSPENYA_GRACE" Language="en_US" Text="Ospenya Grace"/>
+		<Row Tag="LOC_CITY_NAME_ROMLIN_TOWN" Language="en_US" Text="Romlin Town"/>
+		<Row Tag="LOC_CITY_NAME_SENICAN_SPRINGS" Language="en_US" Text="Senican Springs"/>
+		<Row Tag="LOC_CITY_NAME_RAMOSANYA_TOWN" Language="en_US" Text="Ramosanya Town"/>
+		<Row Tag="LOC_CITY_NAME_ARANDAILLE_GRACE" Language="en_US" Text="Arandaille Grace"/>
+		<Row Tag="LOC_CITY_NAME_LUCANVALLE_TOWN" Language="en_US" Text="Lucanvalle Town"/>
+		<Row Tag="LOC_CITY_NAME_SORENTHAINE_GRACE" Language="en_US" Text="Sorenthaine Grace"/>
+		<Row Tag="LOC_CITY_NAME_MARODRED_SPRINGS" Language="en_US" Text="Marodred Springs"/>
+		<Row Tag="LOC_CITY_NAME_ZEPAVA_TOWN" Language="en_US" Text="Zepava Town"/>
+		<Row Tag="LOC_CITY_NAME_ALIEVIN_GRACE" Language="en_US" Text="Alievin Grace"/>
+		<Row Tag="LOC_CITY_NAME_NOREGOVNA_TOWN" Language="en_US" Text="Noregovna Town"/>
+		<Row Tag="LOC_CITY_NAME_TOLEN_SPRINGS" Language="en_US" Text="Tolen Springs"/>
+		<Row Tag="LOC_CITY_NAME_SARALMAN_GRACE" Language="en_US" Text="Saralman Grace"/>
+		<Row Tag="LOC_CITY_NAME_KISHAR_GRACE" Language="en_US" Text="Kishar Grace"/>
+		<Row Tag="LOC_CITY_NAME_LUIN_SPRINGS" Language="en_US" Text="Luin Springs"/>
+		<Row Tag="LOC_CITY_NAME_NAWAN_TOWN" Language="en_US" Text="Nawan Town"/>
+		<Row Tag="LOC_CITY_NAME_MELWAY_GRACE" Language="en_US" Text="Melway Grace"/>
+		<Row Tag="LOC_CITY_NAME_NAMOTO_SPRINGS" Language="en_US" Text="Natomo Springs"/>
+		<Row Tag="LOC_CITY_NAME_JUREEN_TOWN" Language="en_US" Text="Jureen Town"/>
+		<Row Tag="LOC_CITY_NAME_JAEN_SPRINGS" Language="en_US" Text="Jaen Springs"/>
+		<Row Tag="LOC_CITY_NAME_ERAMANDOS_GRACE" Language="en_US" Text="Eramandos Grace"/>
+		<Row Tag="LOC_CITY_NAME_COPAN_TOWN" Language="en_US" Text="Copan Town"/>
+		<Row Tag="LOC_CITY_NAME_COIDEVWIN_GRACE" Language="en_US" Text="Coidevwin Grace"/>
+		<Row Tag="LOC_CITY_NAME_DEMALLE_SPRINGS" Language="en_US" Text="Demalle Springs"/>
+		<Row Tag="LOC_CITY_NAME_ESCANDA_GRACE" Language="en_US" Text="Escanda Grace"/>
+		<Row Tag="LOC_CITY_NAME_MORRIGAN_TOWN" Language="en_US" Text="Morrigan Town"/>
+		<Row Tag="LOC_CITY_NAME_TYRIM_SPRINGS" Language="en_US" Text="Tyrim Springs"/>
+		<!-- SHIENAR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EASAR_TOGITA" Language="en_US">
+			<Text>Easar Togita, of House Togita, is the King of Shienar. He led the Shienaran troops into battle at Tarwin's Gap to battle the Trollocs. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FAL_MORAN" Language="en_US" Text="Fal Moran"/>
+		<Row Tag="LOC_CITY_NAME_FAL_DARA" Language="en_US" Text="Fal Dara"/>
+		<Row Tag="LOC_CITY_NAME_FAL_EISEN" Language="en_US" Text="Fal Eisen"/>
+		<Row Tag="LOC_CITY_NAME_MOS_SHIRARE" Language="en_US" Text="Mos Shirare"/>
+		<Row Tag="LOC_CITY_NAME_CAMRON_CAAN" Language="en_US" Text="Camron Caan"/>
+		<Row Tag="LOC_CITY_NAME_FAL_SION" Language="en_US" Text="Fal Sion"/>
+		<Row Tag="LOC_CITY_NAME_ANKOR_DAIL" Language="en_US" Text="Ankor Dail"/>
+		<Row Tag="LOC_CITY_NAME_MEDO" Language="en_US" Text="Medo"/>
+		<Row Tag="LOC_CITY_NAME_JAGAD_FORT" Language="en_US" Text="Jagad Fort"/>
+		<Row Tag="LOC_CITY_NAME_SHINOWA_KEEP" Language="en_US" Text="Shinowa Keep"/>
+		<Row Tag="LOC_CITY_NAME_TOGITA_HOLD" Language="en_US" Text="Togita Hold"/>
+		<Row Tag="LOC_CITY_NAME_TIHOMAR_FORT" Language="en_US" Text="Tihomar Fort"/>
+		<Row Tag="LOC_CITY_NAME_YOKATA_HOLD" Language="en_US" Text="Yokata Hold"/>
+		<Row Tag="LOC_CITY_NAME_KAJIN_KEEP" Language="en_US" Text="Kajin Keep"/>
+		<Row Tag="LOC_CITY_NAME_NOMESTA_FORT" Language="en_US" Text="Nomesta Fort"/>
+		<Row Tag="LOC_CITY_NAME_MORA" Language="en_US" Text="Mora"/>
+		<Row Tag="LOC_CITY_NAME_NEW_ANOLLE_SANNA" Language="en_US" Text="New Anolle'sanna"/>
+		<Row Tag="LOC_CITY_NAME_NEW_CUEBIYARSANDE" Language="en_US" Text="New Cuebiyarsande"/>
+		<Row Tag="LOC_CITY_NAME_NWQ_RHAHIME_NAILLE" Language="en_US" Text="New Rhahime Naille"/>
+		<!-- KANDOR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EITHENIELLE_NORAMAGA" Language="en_US">
+			<Text>Ethenielle Kirukon Materasu, after her marriage with Brys Noramaga, Ethenielle Cosaru Noramaga is the Queen of Kandor, residing in Aesdaishar Palace. Her full title is "Her Most Illuminated Majesty, Ethenielle Cosaru Noramaga, By the Blessing of the Light, Queen of Kandor, Protector of the Land, Shield of the North, High Seat of House Noramaga.</Text>
+		</Row>
+		<Row Tag="LOC_WOT_COMBAT_BONUS_HILLS_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in Hills</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHACHIN" Language="en_US" Text="Chachin"/>
+		<Row Tag="LOC_CITY_NAME_CANLUUM" Language="en_US" Text="Canluum"/>
+		<Row Tag="LOC_CITY_NAME_MANALA" Language="en_US" Text="Manala"/>
+		<Row Tag="LOC_CITY_NAME_RAVINDA" Language="en_US" Text="Ravinda"/>
+		<Row Tag="LOC_CITY_NAME_SILVERWALL_KEEPS" Language="en_US" Text="Silverwall Keeps"/>
+		<Row Tag="LOC_CITY_NAME_ARREL_FORT" Language="en_US" Text="Arrel Fort"/>
+		<Row Tag="LOC_CITY_NAME_MARCASIEV_HOLD" Language="en_US" Text="Marcasiev Hold"/>
+		<Row Tag="LOC_CITY_NAME_MATERASU_KEEP" Language="en_US" Text="Materasu Keep"/>
+		<Row Tag="LOC_CITY_NAME_NORAMAGA_FORT" Language="en_US" Text="Noramaga Fort"/>
+		<Row Tag="LOC_CITY_NAME_BALDHERE_HOLD" Language="en_US" Text="Baldhere Hold"/>
+		<Row Tag="LOC_CITY_NAME_OKATOMO_KEEP" Language="en_US" Text="Okatomo Keep"/>
+		<Row Tag="LOC_CITY_NAME_RENA_TOWER" Language="en_US" Text="Rena Tower"/>
+		<Row Tag="LOC_CITY_NAME_HEETH_TOWER" Language="en_US" Text="Heeth Tower"/>
+		<Row Tag="LOC_CITY_NAME_DEMAIN_FORT" Language="en_US" Text="Demain Fort"/>
+		<Row Tag="LOC_CITY_NAME_SOUKOVNI" Language="en_US" Text="Soukovni Hold"/>
+		<Row Tag="LOC_CITY_NAME_TAZANOVNI_KEEP" Language="en_US" Text="Tazanovni Keep"/>
+		<Row Tag="LOC_CITY_NAME_AKASHI_FORT" Language="en_US" Text="Akashi Fort"/>
+		<Row Tag="LOC_CITY_NAME_SHUKOSA_HOLD" Language="en_US" Text="Shukosa Hold"/>
+		<Row Tag="LOC_CITY_NAME_COSARU_KEEP" Language="en_US" Text="Cosaru Keep"/>
+		<!-- SALDEA -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TENOBIA_KAZADI" Language="en_US">
+			<Text>Her Illumined Majesty, Tenobia si Bashere Kazadi, Shield of the North and Sword of the Blightborder, High Seat of House Kazadi, Lady of Shahayni, Asnelle, Kunwar and Ganai was Queen of Saldaea. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARADON" Language="en_US" Text="Maradon"/>
+		<Row Tag="LOC_CITY_NAME_KAYACUN" Language="en_US" Text="Kayacun"/>
+		<Row Tag="LOC_CITY_NAME_IRINJAVAR" Language="en_US" Text="Irinjavar"/>
+		<Row Tag="LOC_CITY_NAME_MEHAR" Language="en_US" Text="Mehar"/>
+		<Row Tag="LOC_CITY_NAME_TYR" Language="en_US" Text="Tyr"/>
+		<Row Tag="LOC_CITY_NAME_SIDONA" Language="en_US" Text="Sidona"/>
+		<Row Tag="LOC_CITY_NAME_ASNELLE" Language="en_US" Text="Asnelle"/>
+		<Row Tag="LOC_CITY_NAME_BASHERE" Language="en_US" Text="Bashere"/>
+		<Row Tag="LOC_CITY_NAME_GANAI" Language="en_US" Text="Ganai"/>
+		<Row Tag="LOC_CITY_NAME_KUNWAR" Language="en_US" Text="Kunwar"/>
+		<Row Tag="LOC_CITY_NAME_SHAHAYNI" Language="en_US" Text="Shahayni"/>
+		<Row Tag="LOC_CITY_NAME_KAZADI_KEEP" Language="en_US" Text="Kazadi Keep"/>
+		<Row Tag="LOC_CITY_NAME_TORKUMEN_FORT" Language="en_US" Text="Torkumen Fort"/>
+		<Row Tag="LOC_CITY_NAME_RAMSIN_HOLD" Language="en_US" Text="Ramsin Hold"/>
+		<Row Tag="LOC_CITY_NAME_GHALINE_KEEP" Language="en_US" Text="Ghaline Keep"/>
+		<Row Tag="LOC_CITY_NAME_BORIDEN_FORT" Language="en_US" Text="Boriden Fort"/>
+		<Row Tag="LOC_CITY_NAME_RASHAD_HOLD" Language="en_US" Text="Rashad Hold"/>
+		<Row Tag="LOC_CITY_NAME_DIANATKHAH_KEEP" Language="en_US" Text="Dianatkhah Keep"/>
+		<Row Tag="LOC_CITY_NAME_NEW_BARSINE" Language="en_US" Text="New Barsine"/>
+		<Row Tag="LOC_CITY_NAME_NEW_NASHEBAR" Language="en_US" Text="New Nashebar"/>
+		<!-- CAIRHIEN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GALLDRIAN_RIATIN" Language="en_US">
+			<Text>Galldrian su Riatin rie was king of Cairhien from 978 NE, after Laman Damodred's death at the end of the Aiel War. Galldrian was an unremarkable ruler for the most part, although not prone to quite the same excesses as his predecessor.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAIRHIEN" Language="en_US" Text="Cairhien"/>
+		<Row Tag="LOC_CITY_NAME_EIANROD" Language="en_US" Text="Eianrod"/>
+		<Row Tag="LOC_CITY_NAME_MORELLE" Language="en_US" Text="Morelle"/>
+		<Row Tag="LOC_CITY_NAME_SELEAN" Language="en_US" Text="Selean"/>
+		<Row Tag="LOC_CITY_NAME_JURENE" Language="en_US" Text="Jurene"/>
+		<Row Tag="LOC_CITY_NAME_TREMONSIEN" Language="en_US" Text="Tremonsien"/>
+		<Row Tag="LOC_CITY_NAME_MAERONE" Language="en_US" Text="Maerone"/>
+		<Row Tag="LOC_CITY_NAME_TAIEN" Language="en_US" Text="Taien"/>
+		<Row Tag="LOC_CITY_NAME_DAMODRED_HOLD" Language="en_US" Text="Damodred Hold"/>
+		<Row Tag="LOC_CITY_NAME_ANNALLIN_KEEP" Language="en_US" Text="Annallin Keep"/>
+		<Row Tag="LOC_CITY_NAME_CHULIANDRED_FORT" Language="en_US" Text="Chuliandred Fort"/>
+		<Row Tag="LOC_CITY_NAME_DAGANRED_TOWN" Language="en_US" Text="Daganred Town"/>
+		<Row Tag="LOC_CITY_NAME_DELOVINDE_HOLD" Language="en_US" Text="Delovinde Hold"/>
+		<Row Tag="LOC_CITY_NAME_DHULAINE_KEEP" Language="en_US" Text="Dhulaine Keep"/>
+		<Row Tag="LOC_CITY_NAME_MARAVIN_FORT" Language="en_US" Text="Maravin Fort"/>
+		<Row Tag="LOC_CITY_NAME_MOSENEILLIN_KEEP" Language="en_US" Text="Moseneillin Keep"/>
+		<Row Tag="LOC_CITY_NAME_OSIELLIN_TOWN" Language="en_US" Text="Osiellin Town"/>
+		<Row Tag="LOC_CITY_NAME_SAIGHAN_FORT" Language="en_US" Text="Saighan Fort"/>
+		<Row Tag="LOC_CITY_NAME_TABORWIN_KEEP" Language="en_US" Text="Taborwin Keep"/>
+		<Row Tag="LOC_CITY_NAME_RIATIN_HOLD" Language="en_US" Text="Riatin Hold"/>
+		<Row Tag="LOC_CITY_NAME_NOLAISEN_FORT" Language="en_US" Text="Nolaisen Fort"/>
+		<Row Tag="LOC_CITY_NAME_DOIRMANES_KEEP" Language="en_US" Text="Doirmanes Keep"/>
+		<Row Tag="LOC_CITY_NAME_HAMARASHLE_HOLD" Language="en_US" Text="Hamarashle Hold"/>
+		<Row Tag="LOC_CITY_NAME_RIKSHAN_FORT" Language="en_US" Text="Rikshan Fort"/>
+		<Row Tag="LOC_CITY_NAME_MENERIL_TOWN" Language="en_US" Text="Meneril Town"/>
+		<Row Tag="LOC_CITY_NAME_MAVABWIN_KEEP" Language="en_US" Text="Mavabwin Keep"/>
+		<Row Tag="LOC_CITY_NAME_AESNAN_FORT" Language="en_US" Text="Aesnan Fort"/>
+		<Row Tag="LOC_CITY_NAME_DARENGIL_HOLD" Language="en_US" Text="Darengil Hold"/>
+		<Row Tag="LOC_CITY_NAME_ALDORWIN_FORT" Language="en_US" Text="Aldorwin Fort"/>
+		<Row Tag="LOC_CITY_NAME_BASAR_TOWN" Language="en_US" Text="Basar Town"/>
+		<Row Tag="LOC_CITY_NAME_COLMCILLE_KEEP" Language="en_US" Text="Colmcille Keep"/>
+		<Row Tag="LOC_CITY_NAME_TORELVIN_FORT" Language="en_US" Text="Torelvin Fort"/>
+		<Row Tag="LOC_CITY_NAME_NEW_JENNSHAIN" Language="en_US" Text="New Jennshain"/>
+		<!-- ALTARA -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TYLIN_MITSOBAR" Language="en_US">
+			<Text>Tylin Quintara Mitsobar, by the Grace of the Light, was the Queen of Altara, Mistress of the Four Winds, Guardian of the Sea of Storms, and High Seat of House Mitsobar.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EBOU_DAR" Language="en_US" Text="Ebou Dar"/>
+		<Row Tag="LOC_CITY_NAME_JURADOR" Language="en_US" Text="Jurador"/>
+		<Row Tag="LOC_CITY_NAME_MADERIN" Language="en_US" Text="Maderin"/>
+		<Row Tag="LOC_CITY_NAME_MALDEN" Language="en_US" Text="Malden"/>
+		<Row Tag="LOC_CITY_NAME_ALKINDAR" Language="en_US" Text="Alkindar"/>
+		<Row Tag="LOC_CITY_NAME_CORAMEN" Language="en_US" Text="Coramen"/>
+		<Row Tag="LOC_CITY_NAME_RUNNIEN_CROSSING" Language="en_US" Text="Runnien Crossing"/>
+		<Row Tag="LOC_CITY_NAME_SO_HABOR" Language="en_US" Text="So Habor"/>
+		<Row Tag="LOC_CITY_NAME_NOR_CHASEN" Language="en_US" Text="Nor Chasen"/>
+		<Row Tag="LOC_CITY_NAME_WEESIN" Language="en_US" Text="Weesin"/>
+		<Row Tag="LOC_CITY_NAME_SO_TEHAR" Language="en_US" Text="So Tehar"/>
+		<Row Tag="LOC_CITY_NAME_MOSRA" Language="en_US" Text="Mosra"/>
+		<Row Tag="LOC_CITY_NAME_SO_EBAN" Language="en_US" Text="So Eban"/>
+		<Row Tag="LOC_CITY_NAME_BRYTAN" Language="en_US" Text="Brytan"/>
+		<Row Tag="LOC_CITY_NAME_MARELLA" Language="en_US" Text="Marella"/>
+		<Row Tag="LOC_CITY_NAME_IONIN_SPRING" Language="en_US" Text="Ionin Spring"/>
+		<Row Tag="LOC_CITY_NAME_CORMAED" Language="en_US" Text="Cormaed"/>
+		<Row Tag="LOC_CITY_NAME_SEHAR" Language="en_US" Text="Sehar"/>
+		<Row Tag="LOC_CITY_NAME_REMEN" Language="en_US" Text="Remen"/>
+		<Row Tag="LOC_CITY_NAME_MOISEN" Language="en_US" Text="Moisen"/>
+		<Row Tag="LOC_CITY_NAME_SOREMAINE" Language="en_US" Text="Soremaine"/>
+		<!-- LOC_CITY_NAME_SALIDAR -->
+		<Row Tag="LOC_CITY_NAME_MITSOBAR_HOLD" Language="en_US" Text="Mitsobar Hold"/>
+		<Row Tag="LOC_CITY_NAME_TODANDE_KEEP" Language="en_US" Text="Todande Keep"/>
+		<Row Tag="LOC_CITY_NAME_COWLIN_FORT" Language="en_US" Text="Cowlin Fort"/>
+		<Row Tag="LOC_CITY_NAME_VENDARE_HOLD" Language="en_US" Text="Vendare Hold"/>
+		<Row Tag="LOC_CITY_NAME_MALALIN_KEEP" Language="en_US" Text="Malalin Keep"/>
+		<Row Tag="LOC_CITY_NAME_NEW_LONDAREN_COR" Language="en_US" Text="New Londaren Cor"/>
+		<!-- AMADICIA-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRON_NIALL" Language="en_US">
+			<Text>Pedron Niall was the Lord Captain Commander of the Children of the Light. The ruling body of Amadicia is historically a king, most recently King Ailron, but the Children of the Light were the real ruling power in Amadicia.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMADOR" Language="en_US" Text="Amador"/>
+		<Row Tag="LOC_CITY_NAME_BELLON" Language="en_US" Text="Bellon"/>
+		<Row Tag="LOC_CITY_NAME_SIENDA" Language="en_US" Text="Sienda"/>
+		<Row Tag="LOC_CITY_NAME_JERAMEL" Language="en_US" Text="Jeramel"/>
+		<Row Tag="LOC_CITY_NAME_MARDECIN" Language="en_US" Text="Mardecin"/>
+		<Row Tag="LOC_CITY_NAME_ABILA" Language="en_US" Text="Abila"/>
+		<Row Tag="LOC_CITY_NAME_ALMIZAR" Language="en_US" Text="Almizar"/>
+		<Row Tag="LOC_CITY_NAME_DURABAN" Language="en_US" Text="Duraban"/>
+		<Row Tag="LOC_CITY_NAME_GRUNDS_PASS" Language="en_US" Text="Grund's Pass"/>
+		<Row Tag="LOC_CITY_NAME_LUKAN_HOLD" Language="en_US" Text="Lukan Hold"/>
+		<Row Tag="LOC_CITY_NAME_SENHOLD_FORT" Language="en_US" Text="Senhold Fort"/>
+		<Row Tag="LOC_CITY_NAME_BORNHAL_KEEP" Language="en_US" Text="Bornhald Keep"/>
+		<Row Tag="LOC_CITY_NAME_ALGORAN_HOLD" Language="en_US" Text="Algoran Hold"/>
+		<Row Tag="LOC_CITY_NAME_ROVERE_FORT" Language="en_US" Text="Rovere Fort"/>
+		<Row Tag="LOC_CITY_NAME_SHARIA" Language="en_US" Text="Sharia"/>
+		<!-- GHEALDAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ALLIANDRE_KIGARIN" Language="en_US">
+			<Text>Blessed of the Light, Defender of Garen's Wall, Alliandre Maritha Kigarin is Queen of Ghealdan.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_WOT_FOREST_COMBAT_BONUS_GHEALDAN_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] when fighting in Forest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEHANNAH" Language="en_US" Text="Jehannah"/>
+		<Row Tag="LOC_CITY_NAME_COSAMELLE" Language="en_US" Text="Cosamelle"/>
+		<Row Tag="LOC_CITY_NAME_SAMARA" Language="en_US" Text="Samara"/>
+		<Row Tag="LOC_CITY_NAME_BETHAL" Language="en_US" Text="Bethal"/>
+		<Row Tag="LOC_CITY_NAME_BOANNDA" Language="en_US" Text="Boannda"/>
+		<Row Tag="LOC_CITY_NAME_JARRA" Language="en_US" Text="Jarra"/>
+		<Row Tag="LOC_CITY_NAME_FYALL" Language="en_US" Text="Fyall"/>
+		<Row Tag="LOC_CITY_NAME_SAMAHA" Language="en_US" Text="Samaha"/>
+		<Row Tag="LOC_CITY_NAME_SIDON_TOWN" Language="en_US" Text="Sidon Town"/>
+		<Row Tag="LOC_CITY_NAME_TALLAN" Language="en_US" Text="Tallan"/>
+		<Row Tag="LOC_CITY_NAME_WILLAR" Language="en_US" Text="Willar"/>
+		<Row Tag="LOC_CITY_NAME_KIGARIN_HOLD" Language="en_US" Text="Kigarin Hold"/>
+		<Row Tag="LOC_CITY_NAME_TALVAEN_FORT" Language="en_US" Text="Talvaen Fort"/>
+		<Row Tag="LOC_CITY_NAME_KIREYIN_KEEP" Language="en_US" Text="Kireyin Keep"/>
+		<Row Tag="LOC_CITY_NAME_ALMEYDA_FORT" Language="en_US" Text="Almeyda Fort"/>
+		<Row Tag="LOC_CITY_NAME_ASHMAR_HOLD" Language="en_US" Text="Ashmar Hold"/>
+		<Row Tag="LOC_CITY_NAME_PROSNARIN" Language="en_US" Text="Prosnarin Keep"/>
+		<Row Tag="LOC_CITY_NAME_ARGANDA_HOLD" Language="en_US" Text="Arganda Hold"/>
+		<Row Tag="LOC_CITY_NAME_ABLAR_FORT" Language="en_US" Text="Ablar Fort"/>
+		<Row Tag="LOC_CITY_NAME_BOERN" Language="en_US" Text="Boern"/>
+		<Row Tag="LOC_CITY_NAME_ELDAR" Language="en_US" Text="Eldar"/>
+
+		<!-- TARABON-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMATHERA_LOUNAULT" Language="en_US">
+			<Text>Amathera Aelfdene Casmir Lounault is a Taraboner noblewoman who was raised to the position of Panarch of Tarabon. Although Amathera seemed to have no clue as to what the lives of the common people were like when she is raised as Panarch, Elayne thought that she had a true concern for justice.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TANCHICO" Language="en_US" Text="Tanchico"/>
+		<Row Tag="LOC_CITY_NAME_ELMORA" Language="en_US" Text="Elmora"/>
+		<Row Tag="LOC_CITY_NAME_MARACRU" Language="en_US" Text="Maracru"/>
+		<Row Tag="LOC_CITY_NAME_NASSAD" Language="en_US" Text="Nassad"/>
+		<Row Tag="LOC_CITY_NAME_ALCRUNA" Language="en_US" Text="Alcruna"/>
+		<Row Tag="LOC_CITY_NAME_SERANA" Language="en_US" Text="Serana"/>
+		<Row Tag="LOC_CITY_NAME_LOUNAULT_HOLD" Language="en_US" Text="Lounault Hold"/>
+		<Row Tag="LOC_CITY_NAME_AMADIA_FORT" Language="en_US" Text="Amadia Fort"/>
+		<Row Tag="LOC_CITY_NAME_MASEED_KEEP" Language="en_US" Text="Maseed Keep"/>
+		<Row Tag="LOC_CITY_NAME_GENHAL_HOLD" Language="en_US" Text="Genhal Hold"/>
+		<Row Tag="LOC_CITY_NAME_NERENHALD_FORT" Language="en_US" Text="Nerenhald Fort"/>
+		<Row Tag="LOC_CITY_NAME_ANDAHAR" Language="en_US" Text="Andahar"/>
+		<Row Tag="LOC_CITY_NAME_NEW_CONDARIS" Language="en_US" Text="New Condaris"/>
+		<Row Tag="LOC_CITY_NAME_NEW_MAINELLE" Language="en_US" Text="New Mainelle"/>
+		<Row Tag="LOC_CITY_NAME_NEW_SHAR_HONELLE" Language="en_US" Text="New Shar Honelle"/>
+		<!-- ARAD_DOMAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ALSALAM_ALMADA" Language="en_US">
+			<Text>Alsalam Saeed Almadar was the king of Arad Doman, Lord of Almadar, High Seat of House Almadar. Alsalam was considered a good ruler for around twenty years, which made his sudden shift toward chaotic orders very suspicious. These more recent orders, supposedly issued by King Alsalam, were, in actuality, coming from Graendal. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BANDAR_EBAN" Language="en_US" Text="Bandar Eban"/>
+		<Row Tag="LOC_CITY_NAME_KATAR" Language="en_US" Text="Katar"/>
+		<Row Tag="LOC_CITY_NAME_DARLUNA" Language="en_US" Text="Darulna"/>
+		<Row Tag="LOC_CITY_NAME_SOLANJE" Language="en_US" Text="Solanje"/>
+		<Row Tag="LOC_CITY_NAME_KANDELMAR" Language="en_US" Text="Kandelmar"/>
+		<Row Tag="LOC_CITY_NAME_MASEEN" Language="en_US" Text="Maseen"/>
+		<Row Tag="LOC_CITY_NAME_CORON_FORD" Language="en_US" Text="Coron Ford"/>
+		<Row Tag="LOC_CITY_NAME_ALMADAR_HOLD" Language="en_US" Text="Almadar Hold"/>
+		<Row Tag="LOC_CITY_NAME_ITURALDE_KEEP" Language="en_US" Text="Ituralde Keep"/>
+		<Row Tag="LOC_CITY_NAME_ANKAER_FORT" Language="en_US" Text="Ankaer Fort"/>
+		<Row Tag="LOC_CITY_NAME_CALLSWELL_HOLD" Language="en_US" Text="Callswell Hold"/>
+		<Row Tag="LOC_CITY_NAME_VIVIAN_KEEP" Language="en_US" Text="Vivian Keep"/>
+		<Row Tag="LOC_CITY_NAME_TELLAEN_FORT" Language="en_US" Text="Tellaen Fort"/>
+		<Row Tag="LOC_CITY_NAME_TEACAL_KEEP" Language="en_US" Text="Teacal Keep"/>
+		<Row Tag="LOC_CITY_NAME_SHIMRON_HOLD" Language="en_US" Text="Shimron Hold"/>
+		<Row Tag="LOC_CITY_NAME_RAHMAN_FORT" Language="en_US" Text="Rahman Fort"/>
+		<Row Tag="LOC_CITY_NAME_RAMSHALAN_KEEP" Language="en_US" Text="Ramshalan Keep"/>
+		<Row Tag="LOC_CITY_NAME_MACHIR_FORT" Language="en_US" Text="Machir Fort"/>
+		<Row Tag="LOC_CITY_NAME_LIDRIN_KEEP" Language="en_US" Text="Lidrin Keep"/>
+		<Row Tag="LOC_CITY_NAME_CHADMAR_HOLD" Language="en_US" Text="Chadmar Hold"/>
+		<Row Tag="LOC_CITY_NAME_SOMAL" Language="en_US" Text="Somal"/>
+		<Row Tag="LOC_CITY_NAME_DHAGON" Language="en_US" Text="Dhagon"/>
+		<Row Tag="LOC_CITY_NAME_AKUUM" Language="en_US" Text="Akuum"/>
+		<!-- SEANCHAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TUON_PAENDRAG" Language="en_US">
+			<Text>Fortuona Athaem Devi Paendrag is the current Empress of the Seanchan, the Daughter of the Nine Moons, the second and favorite daughter of the late Empress of the Seanchan empire. She is believed to be a direct descendant of Artur Hawkwing through his son Luthair, who conquered the Seanchan continent. </Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_WOT_BONUS_FOREING_CONTINENT_MODIFIER" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on a continent other that your [ICON_Capital] Capital's.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEANDAR" Language="en_US" Text="Seandar"/>
+		<Row Tag="LOC_CITY_NAME_IMFARAL" Language="en_US" Text="Imfaral"/>
+		<Row Tag="LOC_CITY_NAME_ASINBAYAR" Language="en_US" Text="Asinbayar"/>
+		<Row Tag="LOC_CITY_NAME_KIRENDAD" Language="en_US" Text="Kirendad"/>
+		<Row Tag="LOC_CITY_NAME_SHON_KIFAR" Language="en_US" Text="Shon Kifar"/>
+		<Row Tag="LOC_CITY_NAME_ANANGORE" Language="en_US" Text="Anangore"/>
+		<Row Tag="LOC_CITY_NAME_SOHIMA" Language="en_US" Text="Sohima"/>
+		<Row Tag="LOC_CITY_NAME_QIRAT" Language="en_US" Text="Qirat"/>
+		<Row Tag="LOC_CITY_NAME_RAMPORE" Language="en_US" Text="Rampore"/>
+		<Row Tag="LOC_CITY_NAME_TZURA" Language="en_US" Text="T'zura"/>
+		<Row Tag="LOC_CITY_NAME_NOREN_MSHAR" Language="en_US" Text="Noren M'Shar"/>
+		<Row Tag="LOC_CITY_NAME_MARENDALAR" Language="en_US" Text="Marendalar"/>
+		<Row Tag="LOC_CITY_NAME_FALME" Language="en_US" Text="Falme"/>
+		<!-- 
+		LOC_CITY_NAME_TANCHICO
+		LOC_CITY_NAME_ELMORA
+		LOC_CITY_NAME_AMADOR
+		LOC_CITY_NAME_EBOU_DAR
+		LOC_CITY_NAME_JURADOR
+		-->
+		<Row Tag="LOC_CITY_NAME_BARSABBA" Language="en_US" Text="Barsabba"/>
+		<Row Tag="LOC_CITY_NAME_SERENGADA_DAI" Language="en_US" Text="Serengada Dai"/>
+		<Row Tag="LOC_CITY_NAME_MERINLOE" Language="en_US" Text="Merinloe"/>
+		<Row Tag="LOC_CITY_NAME_ABUNAI" Language="en_US" Text="Abunai"/>
+		<Row Tag="LOC_CITY_NAME_JERANEM" Language="en_US" Text="Jeranem"/>
+		<Row Tag="LOC_CITY_NAME_KHOWEAL" Language="en_US" Text="Khoweal"/>
+		<Row Tag="LOC_CITY_NAME_TUEL" Language="en_US" Text="Tuel"/>
+		<Row Tag="LOC_CITY_NAME_SEMALAREN" Language="en_US" Text="Semalaren"/>
+		<Row Tag="LOC_CITY_NAME_ANCARID" Language="en_US" Text="Ancarid"/>
+		<Row Tag="LOC_CITY_NAME_MARAM_KASHOR" Language="en_US" Text="Maram Kashor"/>
+		<Row Tag="LOC_CITY_NAME_SEN_TJORE" Language="en_US" Text="Sen T'jore"/>
+		<Row Tag="LOC_CITY_NAME_PUJILI" Language="en_US" Text="Pujili"/>
+		<Row Tag="LOC_CITY_NAME_JIANMIN" Language="en_US" Text="Jianmin"/>
+		<Row Tag="LOC_CITY_NAME_SALAKING" Language="en_US" Text="Salaking"/>
+		<Row Tag="LOC_CITY_NAME_MECHOACAN" Language="en_US" Text="Mechoacan"/>
+		<Row Tag="LOC_CITY_NAME_NKON" Language="en_US" Text="N'Kon"/>
+		<Row Tag="LOC_CITY_NAME_MUYAMI" Language="en_US" Text="Muyami"/>
+		<Row Tag="LOC_CITY_NAME_ALADON_HOLD" Language="en_US" Text="Aladon"/>
+		<!-- AIEL-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RHUARC" Language="en_US">
+			<Text>Rhuarc is the clan chief of the Taardad Aiel. The Taardad are one of the twelve Aiel clans. Their clan hold is Cold Rocks Hold. The Taardad are the staunchest of Rand’s supporters. They are not friendly with the Shaido Aiel, finding them shifty and underhanded.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RED_SPRINGS_HOLD" Language="en_US" Text="Red Springs Hold"/>
+		<Row Tag="LOC_CITY_NAME_SMOKE_SPRINGS_HOLD" Language="en_US" Text="Smoke Springs Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHIAGI_HOLD" Language="en_US" Text="Shiagi Hold"/>
+		<Row Tag="LOC_CITY_NAME_MAINDE_CUT_HOLD" Language="en_US" Text="Mainde Cut Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHENDE_HOLD" Language="en_US" Text="Shende Hold"/>
+		<Row Tag="LOC_CITY_NAME_SULARA_HOLD" Language="en_US" Text="Sulara Hold"/>
+		<Row Tag="LOC_CITY_NAME_COLRADA_HOLD" Language="en_US" Text="Colrada Hold"/>
+		<Row Tag="LOC_CITY_NAME_COLD_ROCKS_HOLD" Language="en_US" Text="Cold Rocks Hold"/>
+		<Row Tag="LOC_CITY_NAME_BENT_VALLEY_HOLD" Language="en_US" Text="Bent Valley Hold"/>
+		<Row Tag="LOC_CITY_NAME_COMARDA_HOLD" Language="en_US" Text="Comarda Hold"/>
+		<Row Tag="LOC_CITY_NAME_RHUIDEAN" Language="en_US" Text="Rhuidean"/>
+		<Row Tag="LOC_CITY_NAME_GOSHIEN_HOLD" Language="en_US" Text="Goshien Hold"/>
+		<Row Tag="LOC_CITY_NAME_BITTER_WATER_HOLD" Language="en_US" Text="Bitter Water Hold"/>
+		<Row Tag="LOC_CITY_NAME_DOMAI_HOLD" Language="en_US" Text="Domai Hold"/>
+		<Row Tag="LOC_CITY_NAME_CHAREEN_HOLD" Language="en_US" Text="Chareen Hold"/>
+		<Row Tag="LOC_CITY_NAME_CODARRA_HOLD" Language="en_US" Text="Codarra Hold"/>
+		<Row Tag="LOC_CITY_NAME_DARYNE_HOLD" Language="en_US" Text="Daryne Hold"/>
+		<Row Tag="LOC_CITY_NAME_MIAGOMA_HOLD" Language="en_US" Text="Miagoma Hold"/>
+		<Row Tag="LOC_CITY_NAME_NAKAI_HOLD" Language="en_US" Text="Nakai Hold"/>
+		<Row Tag="LOC_CITY_NAME_REYN_HOLD" Language="en_US" Text="Reyn Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHAARAD_HOLD" Language="en_US" Text="Shaarad Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHIANDE_HOLD" Language="en_US" Text="Shiande Hold"/>
+		<Row Tag="LOC_CITY_NAME_TOMANELLE_HOLD" Language="en_US" Text="Tomanelle Hold"/>
+		<Row Tag="LOC_CITY_NAME_JARRA_HOLD" Language="en_US" Text="Jarra Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHELAN_HOLD" Language="en_US" Text="Shelan Hold"/>
+		<Row Tag="LOC_CITY_NAME_HIGH_PLAIN_HOLD" Language="en_US" Text="High Plain Hold"/>
+		<Row Tag="LOC_CITY_NAME_COLD_PEAK_HOLD" Language="en_US" Text="Cold Peak Hold"/>
+		<Row Tag="LOC_CITY_NAME_BLACK_CLIFFS_HOLD" Language="en_US" Text="Black Cliffs Hold"/>
+		<Row Tag="LOC_CITY_NAME_MUSARA_HOLD" Language="en_US" Text="Musara Hold"/>
+		<Row Tag="LOC_CITY_NAME_GREEN_SALTS_HOLD" Language="en_US" Text="Green Salts Hold"/>
+		<Row Tag="LOC_CITY_NAME_NEDER_HOLD" Language="en_US" Text="Neder Hold"/>
+		<Row Tag="LOC_CITY_NAME_JENDA_HOLD" Language="en_US" Text="Jenda Hold"/>
+		<Row Tag="LOC_CITY_NAME_BLACK_ROCK_HOLD" Language="en_US" Text="Black Rock Hold"/>
+		<Row Tag="LOC_CITY_NAME_JAERN_RIFT_HOLD" Language="en_US" Text="Jaern Rift Hold"/>
+		<Row Tag="LOC_CITY_NAME_BLOODY_WATER_HOLD" Language="en_US" Text="Bloody Water Hold"/>
+		<Row Tag="LOC_CITY_NAME_TWO_SPIRES_HOLD" Language="en_US" Text="Two Spires Hold"/>
+		<Row Tag="LOC_CITY_NAME_WHITE_MOUNTAIN_HOLD" Language="en_US" Text="White Mountain Hold"/>
+		<Row Tag="LOC_CITY_NAME_CHUMAI_HOLD" Language="en_US" Text="Chumai Hold"/>
+		<Row Tag="LOC_CITY_NAME_NINE_VALLEYS_HOLD" Language="en_US" Text="Nine Valleys Hold"/>
+		<Row Tag="LOC_CITY_NAME_STONES_RIVER_HOLD" Language="en_US" Text="Stones River Hold"/>
+		<Row Tag="LOC_CITY_NAME_JHIRAD_HOLD" Language="en_US" Text="Jhirad Hold"/>
+		<Row Tag="LOC_CITY_NAME_SMOKE_WATER_HOLD" Language="en_US" Text="Smoke Water Hold"/>
+		<Row Tag="LOC_CITY_NAME_BLACK_WATER_HOLD" Language="en_US" Text="Black Water Hold"/>
+		<Row Tag="LOC_CITY_NAME_HAIDO_HOLD" Language="en_US" Text="Haido Hold"/>
+		<Row Tag="LOC_CITY_NAME_JONINE_HOLD" Language="en_US" Text="Jonine Hold"/>
+		<Row Tag="LOC_CITY_NAME_SERAI_HOLD" Language="en_US" Text="Serai Hold"/>
+		<Row Tag="LOC_CITY_NAME_MIADI_HOLD" Language="en_US" Text="Miadi Hold "/>
+		<Row Tag="LOC_CITY_NAME_WHITE_CLIFF_HOLD" Language="en_US" Text="White Cliff Hold"/>
+		<Row Tag="LOC_CITY_NAME_RED_WATER_HOLD" Language="en_US" Text="Red Water Hold"/>
+		<Row Tag="LOC_CITY_NAME_FOUR_HOLES_HOLD" Language="en_US" Text="Four Holes Hold"/>
+		<Row Tag="LOC_CITY_NAME_COSAIDA_HOLD" Language="en_US" Text="Cosaida Hold"/>
+		<Row Tag="LOC_CITY_NAME_MOSAADA_HOLD" Language="en_US" Text="Mosaada Hold"/>
+		<Row Tag="LOC_CITY_NAME_SPINE_RIDGE_HOLD" Language="en_US" Text="Spine Ridge Hold"/>
+		<Row Tag="LOC_CITY_NAME_SALT_FLAT_HOLD" Language="en_US" Text="Salt Flat Hold"/>
+		<Row Tag="LOC_CITY_NAME_IMRAN_HOLD" Language="en_US" Text="Imran Hold"/>
+		<Row Tag="LOC_CITY_NAME_JUMAI_HOLD" Language="en_US" Text="Jumai Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHORARA_HOLD" Language="en_US" Text="Shorara Hold"/>
+		<Row Tag="LOC_CITY_NAME_FOUR_STONES_HOLD" Language="en_US" Text="Four Stones Hold"/>
+		<Row Tag="LOC_CITY_NAME_RED_SALT_HOLD" Language="en_US" Text="Red Salt Hold"/>
+		<Row Tag="LOC_CITY_NAME_MORAI_HOLD" Language="en_US" Text="Morai Hold"/>
+		<Row Tag="LOC_CITY_NAME_JINDO_HOLD" Language="en_US" Text="Jindo Hold "/>
+		<Row Tag="LOC_CITY_NAME_IRON_MOUNTAIN_HOLD" Language="en_US" Text="Iron Mountain Hold"/>
+		<Row Tag="LOC_CITY_NAME_MORSHAINE_HOLD" Language="en_US" Text="Morshaine Hold"/>
+		<Row Tag="LOC_CITY_NAME_JAGGED_SQIRE_HOLD" Language="en_US" Text="Jagged Sqire Hold"/>
+		<!-- SHAI_TAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ISHAMAEL" Language="en_US">
+			<Text>Ishamael , previously known as Elan Morin Tedronai, was the most powerful of the Forsaken and their de facto leader during the War of Power. Later, he was officially granted the title of Nae'blis and given direct authority over all of the Dark One's other followers. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAYOL_GHUL" Language="en_US" Text="Shayol Ghul"/>
+		<Row Tag="LOC_CITY_NAME_THE_FORTRESS" Language="en_US" Text="The Fortress"/>
+		<Row Tag="LOC_CITY_NAME_THE_TOWN" Language="en_US" Text="The Town"/>
+		<Row Tag="LOC_CITY_NAME_THAKAN_DAR" Language="en_US" Text="Thakan'dar"/>
+		<Row Tag="LOC_CITY_NAME_PIT_OF_DOOM" Language="en_US" Text="Pit of Doom"/>
+		<Row Tag="LOC_CITY_NAME_AHF_FRAIT" Language="en_US" Text="Ahf'frait"/>
+		<Row Tag="LOC_CITY_NAME_KNO_MON" Language="en_US" Text="Kno'mon"/>
+		<Row Tag="LOC_CITY_NAME_DHA_VOL" Language="en_US" Text="Dha'vol"/>
+		<Row Tag="LOC_CITY_NAME_GHO_HLEM" Language="en_US" Text="Gho'hlem"/>
+		<Row Tag="LOC_CITY_NAME_AL_GHOL" Language="en_US" Text="Al'ghol"/>
+		<Row Tag="LOC_CITY_NAME_KO_BAL" Language="en_US" Text="Ko'bal"/>
+		<Row Tag="LOC_CITY_NAME_DHJIN_NEN" Language="en_US" Text="Dhjin'nen"/>
+		<Row Tag="LOC_CITY_NAME_GHOB_HLIN" Language="en_US" Text="Ghob'hlin"/>
+		<Row Tag="LOC_CITY_NAME_BHAN_SHEEN" Language="en_US" Text="Bhan'sheen"/>
+		<Row Tag="LOC_CITY_NAME_GHRAEM_LAN" Language="en_US" Text="Ghraem'lan"/>
+		<Row Tag="LOC_CITY_NAME_DHAI_MON" Language="en_US" Text="Dhai'mon"/>
+		<Row Tag="LOC_CITY_NAME_GHAR_GHEAL" Language="en_US" Text="Ghar'gheal"/>
+		<Row Tag="LOC_CITY_NAME_DEMANDRED_HOLD" Language="en_US" Text="Demandred Hold"/>
+		<Row Tag="LOC_CITY_NAME_SHAIDAR_HARAN_FORT" Language="en_US" Text="Shaidar Haran Fort"/>
+		<Row Tag="LOC_CITY_NAME_BREND_FORT" Language="en_US" Text="Brend Fort"/>
+		<Row Tag="LOC_CITY_NAME_GAEBRIL_KEEP" Language="en_US" Text="Gaebril Keep"/>
+		<Row Tag="LOC_CITY_NAME_SAMON_FORT" Language="en_US" Text="Samon Fort"/>
+		<Row Tag="LOC_CITY_NAME_BASENE_HOLD" Language="en_US" Text="Basene Hold"/>
+		<Row Tag="LOC_CITY_NAME_AGINOR_KEEP" Language="en_US" Text="Aginor Keep"/>
+		<Row Tag="LOC_CITY_NAME_SEMIRHAGE_KEEP" Language="en_US" Text="Semirhage Keep"/>
+		<Row Tag="LOC_CITY_NAME_BALTHAMEL_HOLD" Language="en_US" Text="Balthamel Hold"/>
+		<Row Tag="LOC_CITY_NAME_ASMODEAN_FORT" Language="en_US" Text="Asmodean Fort"/>
+		<Row Tag="LOC_CITY_NAME_MESAANA_KEEP" Language="en_US" Text="Mesaana Keep"/>
+		<Row Tag="LOC_CITY_NAME_MOGHEDIEN_FORT" Language="en_US" Text="Moghedien Fort"/>
+		<Row Tag="LOC_CITY_NAME_SANIAGO_HOLD" Language="en_US" Text="Saniago Hold"/>
+		<Row Tag="LOC_CITY_NAME_NARENCELONA_KEEP" Language="en_US" Text="Narencelona Keep"/>
+		<Row Tag="LOC_CITY_NAME_TAIM_HOLD" Language="en_US" Text="Taim Hold"/>
+		<Row Tag="LOC_CITY_NAME_HANLON_KEEP" Language="en_US" Text="Hanlon Keep"/>
+		<Row Tag="LOC_CITY_NAME_CARRIDIN_FORT" Language="en_US" Text="Carridin Fort"/>
+		<Row Tag="LOC_CITY_NAME_COMAR_KEEP" Language="en_US" Text="Comar Keep"/>
+		<Row Tag="LOC_CITY_NAME_ELEGAR_HOLD" Language="en_US" Text="Elegar Hold"/>
+		<Row Tag="LOC_CITY_NAME_MELDARATH_HOLD" Language="en_US" Text="Meldarath Fort"/>
+		<Row Tag="LOC_CITY_NAME_ILLIAN" Language="en_US" Text="Illian"/>
+		<Row Tag="LOC_CITY_NAME_C_TEAR" Language="en_US" Text="City of Tear"/>
+		<Row Tag="LOC_CITY_NAME_SHARA_FORT" Language="en_US" Text="Shara Fort"/>
+		<!-- 
+		LOC_CITY_NAME_DAMODRED_HOLD
+		LOC_CITY_NAME_TORKUMEN_FORT
+		LOC_CITY_NAME_ASINBAYAR
+		LOC_CITY_NAME_BARSABBA
+		LOC_CITY_NAME_CAEMLYN
+		LOC_CITY_NAME_BANDAR_EBAN
+		-->
+		<!-- RAND_ALTHOR-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RAND_ALTHOR" Language="en_US">
+			<Text>Rand al'Thor born in the year 978 NE on the slopes of Dragonmount during the final hours of the Aiel War is the Dragon Reborn, the champion of the Light in the battle against the Dark One, the prophesied savior and breaker of the world, and the reincarnated soul of Lews Therin Telamon. To the Aiel he is the Car'a'carn, or He Who Comes with the Dawn, and to the Atha'an Miere he is the Coramoor.</Text>
+		</Row>
+		<!-- 
+		LOC_CITY_NAME_C_TEAR
+		-->
+		<Row Tag="LOC_CITY_NAME_THE_BLACK_TOWER" Language="en_US" Text="The Black Tower"/>
+		<Row Tag="LOC_CITY_NAME_GODAN" Language="en_US" Text="Godan"/>
+		<Row Tag="LOC_CITY_NAME_MAYENE" Language="en_US" Text="Mayene"/>
+		<!-- 
+		LOC_CITY_NAME_ILLIAN
+		LOC_CITY_NAME_CAIRHIEN
+		LOC_CITY_NAME_EMONDS_FIELD
+		Cairhien: 
+			LOC_CITY_NAME_EIANROD
+			LOC_CITY_NAME_MORELLE
+			LOC_CITY_NAME_SELEAN
+			LOC_CITY_NAME_JURENE
+			LOC_CITY_NAME_TREMONSIEN
+			LOC_CITY_NAME_MAERONE
+			LOC_CITY_NAME_TAIEN
+		Aiel:
+			LOC_CITY_NAME_COLD_ROCKS_HOLD
+			LOC_CITY_NAME_CHAREEN_HOLD
+			LOC_CITY_NAME_RED_SPRINGS_HOLD
+			LOC_CITY_NAME_DARYNE_HOLD
+			LOC_CITY_NAME_GOSHIEN_HOLD
+			LOC_CITY_NAME_MIAGOMA_HOLD
+			LOC_CITY_NAME_SHIAGI_HOLD
+			LOC_CITY_NAME_REYN_HOLD
+			LOC_CITY_NAME_SHAARAD_HOLD
+			LOC_CITY_NAME_SHIANDE_HOLD
+			LOC_CITY_NAME_TOMANELLE_HOLD
+		-->
+		<Row Tag="LOC_CITY_NAME_DAMARA_KEEP" Language="en_US" Text="Damara Keep"/>
+		<Row Tag="LOC_CITY_NAME_ANNARIZ_FORT" Language="en_US" Text="Annariz Fort"/>
+		<Row Tag="LOC_CITY_NAME_HAELLIN_HOLD" Language="en_US" Text="Haellin Hold"/>
+		<Row Tag="LOC_CITY_NAME_MENDIANA_KEEP" Language="en_US" Text="Mendiana Keep"/>
+		<Row Tag="LOC_CITY_NAME_PAERON_FORT" Language="en_US" Text="Paeron Fort"/>
+		<Row Tag="LOC_CITY_NAME_PENDALOAN_ESTATE" Language="en_US" Text="Pendaloan Estate"/>
+		<Row Tag="LOC_CITY_NAME_SELORNA_KEEP" Language="en_US" Text="Selorna Keep"/>
+		<Row Tag="LOC_CITY_NAME_SISNERA_HOLD" Language="en_US" Text="Sisnera Hold"/>
+		<Row Tag="LOC_CITY_NAME_TONARMA_FORT" Language="en_US" Text="Tonarma Fort"/>
+		<Row Tag="LOC_CITY_NAME_ALDIAYA_HOLD" Language="en_US" Text="Aldiaya Hold"/>
+		<Row Tag="LOC_CITY_NAME_ANDIAMA_KEEP" Language="en_US" Text="Andiama Keep"/>
+		<Row Tag="LOC_CITY_NAME_GUEYAM_FORT" Language="en_US" Text="Gueyam Fort"/>
+		<Row Tag="LOC_CITY_NAME_TIRADO_KEEP" Language="en_US" Text="Tirado Keep"/>
+		<Row Tag="LOC_CITY_NAME_NOVARES_HOLD" Language="en_US" Text="Novares Hold"/>
+		<Row Tag="LOC_CITY_NAME_DARELOS_KEEP" Language="en_US" Text="Darelos Keep"/>
+		<Row Tag="LOC_CITY_NAME_ELAMRI_FORT" Language="en_US" Text="Elamri Fort"/>
+		<Row Tag="LOC_CITY_NAME_MANCURI_KEEP" Language="en_US" Text="Mancuri Keep"/>
+		<Row Tag="LOC_CITY_NAME_NETARI_HOLD" Language="en_US" Text="Netari Hold"/>
+		<Row Tag="LOC_CITY_NAME_SEMARIS_KEEP" Language="en_US" Text="Semaris Keep"/>
+		<Row Tag="LOC_CITY_NAME_BALGAR_FORT" Language="en_US" Text="Balgar Fort"/>
+		<Row Tag="LOC_CITY_NAME_LUSHENOS_KEEP" Language="en_US" Text="Lushenos Keep"/>
+		<Row Tag="LOC_CITY_NAME_NARETTIN_HOLD" Language="en_US" Text="Narettin Hold"/>
+		<Row Tag="LOC_CITY_NAME_BALLIN_KEEP" Language="en_US" Text="Ballin Keep"/>
+		<Row Tag="LOC_CITY_NAME_NORVIN_FORT" Language="en_US" Text="Norvin Fort"/>
+		<Row Tag="LOC_CITY_NAME_DRAPANEOS_HOLD" Language="en_US" Text="Drapaneos Hold"/>
+		<Row Tag="LOC_CITY_NAME_NEW_DALSANDE" Language="en_US" Text="New Dalsande"/>
+		<!-- PERRIN_AYBARA-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_PERRIN_AYBARA" Language="en_US">
+			<Text>Perrin Aybara, born in the year 978 NE is a strong ta'veren, a wolfbrother, and has exceptional skills in manipulating Tel'aran'rhiod.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_MANETHEREN" Language="en_US" Text="New Manetheren"/>
+		<Row Tag="LOC_CITY_NAME_NEW_CORARTHEREN" Language="en_US" Text="New Corartheren"/>
+		<Row Tag="LOC_CITY_NAME_NEW_JARA_COPAN" Language="en_US" Text="New Jara'copan"/>
+		<!-- MAT_CAUTHON-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAT_CAUTHON" Language="en_US">
+			<Text>Matrim Cauthon, born in the year 978 NE  is the Marshal-General of the Band of the Red Hand, as well as one of the greatest generals the world has ever seen.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAT_CAMP" Language="en_US" Text="Mat's Camp"/>
+		<Row Tag="LOC_CITY_NAME_CARLOMIN_KEEP" Language="en_US" Text="Carlomin Keep"/>
+		<Row Tag="LOC_CITY_NAME_REIMON_FORT" Language="en_US" Text="Reimon Fort"/>
+		<Row Tag="LOC_CITY_NAME_INISHLINN" Language="en_US" Text="Inishlinn"/>
+		<Row Tag="LOC_CITY_NAME_MINDE" Language="en_US" Text="Minde"/>
+		<Row Tag="LOC_CITY_NAME_TRUSTAIR" Language="en_US" Text="Trustair"/>
+		<Row Tag="LOC_CITY_NAME_HINDERSTAP" Language="en_US" Text="Hinderstap"/>
+		<!-- MORGASE_TRAKAND-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MORGASE_TRAKAND" Language="en_US">
+			<Text>Morgase Trakand, full former title by the Grace of the Light, Queen of Andor, Defender of the Realm, Protector of the People, High Seat of House Trakand, is the ruler of Andor.</Text>
+		</Row>
+		<!-- SIUAN_SANCHE-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SIUAN_SANCHE" Language="en_US">
+			<Text>Siuan Sanche was an Aes Sedai of the Blue Ajah. She was born in Tear, and grew up a fisher girl. But now, she is the Amyrlin Seat.</Text>
+		</Row>
+		<!-- ELAIDA_AROIHAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELAIDA_AROIHAN" Language="en_US">
+			<Text>Elaida do Avriny a'Roihan is an Aes Sedai of the Red Ajah, and the Amyrlin Seat in the White Tower. She was also the only Amyrlin raised from the Red Ajah in the New Era.</Text>
+		</Row>
+		<!-- COULADIN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_COULADIN" Language="en_US">
+			<Text>Couladin was a warrior of the Domai sept of the Shaido Aiel and the Seia Doon warrior society. Now is the Clan Chief of the Shaido Aiel.</Text>
+		</Row>
+		<Row Tag="LOC_WOT_DESERT_UNITS_BONUS_MODIFIER" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in Desert and Plains</Text>
+		</Row>
+		<!-- DEMANDRED-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEMANDRED" Language="en_US">
+			<Text>Demandred previously known as Barid Bel Medar and known in Shara as Bao the Wyld, was one of the thirteen Forsaken trapped at Shayol Ghul due to the Dragon's sealing at the end of the Age of Legends, and released back into the world in the summer of 998 NE. </Text>
+		</Row>
+		<!-- SAMMAEL-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SAMMAEL" Language="en_US">
+			<Text>Sammael, formerly known as Tel Janin Aellinsar, was one of the thirteen Forsaken who was trapped at Shayol Ghul due to the Dragon's sealing. He was a world-renowned sportsman in the Age of Legends and one of the Light's greatest generals, until he defected. Sammael used the alias Lord Brend in Illian and quickly taking over the Council of Nine in Illian.</Text>
+		</Row>
+		<!-- RAHVIN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RAHVIN" Language="en_US">
+			<Text>Rahvin, formerly known as Ared Mosinel, was one of the thirteen Forsaken who were trapped at Shayol Ghul due to the Dragon's sealing. He used the alias of Lord Gaebril in Andor. His strength in the power is ++1, the highest ranking possible, putting him above almost all other channelers. The rumors of Morgase's death at his hands led Rahvin to make his own claim upon the throne earlier than planned, with his personal brigade of soldiers, the White Lions, as enforcers.</Text>
+		</Row>
+		<!-- BELAL-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_BELAL" Language="en_US">
+			<Text>Be'lal, formerly known as Duram Laddel Cham, is one of the thirteen Forsaken who were trapped at Shayol Ghul due to the Dragon's sealing. He used the alias Lord Samon the High Lord of Tear.</Text>
+		</Row>
+		<!-- GRAENDAL-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GRAENDAL" Language="en_US">
+			<Text>Graendal, previously called Kamarile Maradim Nindar, is one of the thirteen servants of the Dark One known as the Forsaken.</Text>
+		</Row>
+		<!-- UNITS-->
+		<Row Tag="LOC_ABILITY_GAIDIN_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength if there is at least one adjacent Aes Sedai unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LEGION_OFTHE_WALL_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength if there is at least one adjacent Legion of the Wall unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DEATHWATCH_GUARD_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength if there is at least one adjacent Deathwatch Guard unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAIDENS_SPEAR_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength if there is at least one adjacent Maidens of the Spear unit.</Text>
+		</Row>
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_CREATOR" Language="en_US">
+			<Text>Creator</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_THE_LIGHT" Language="en_US">
+			<Text>The Light</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_WHEEL_OF_TIME" Language="en_US">
+			<Text>The Wheel of Time</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CHILDREN_OFTHE_LIGHT" Language="en_US">
+			<Text>Children of the Light</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SAIDAR" Language="en_US">
+			<Text>Saidar</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DARK_ONE" Language="en_US">
+			<Text>Dark One</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DRAGON_REBORN" Language="en_US">
+			<Text>Dragon Reborn</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CHORA" Language="en_US">
+			<Text>Chora</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_THE_EMPRESS" Language="en_US">
+			<Text>The Empress</Text>
+		</Row>
+		<!-- CITY STATES-->
+		<!-- MURANDY-->
+		<Row Tag="LOC_MINOR_CIV_MURANDY_TRAIT_NAME" Language="en_US" Text="Murandy" />
+		<Row Tag="LOC_MINOR_CIV_MURANDY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_PRODUCTION] Production adjacency bonus from hills to Industrial Zone</Text>
+		</Row>
+		<Row Tag="LOC_MURANDY_NAME" Language="en_US" Text="Murandy" />
+		<Row Tag="LOC_MURANDY_DESCRIPTION" Language="en_US" Text="City State of Murandy" />
+		<Row Tag="LOC_MURANDY_ADJECTIVE" Language="en_US" Text="Murandy" />
+		<Row Tag="LOC_CITY_NAME_LUGARD" Language="en_US" Text="Lugard" />
+		<!-- ARAFEL-->
+		<Row Tag="LOC_MINOR_CIV_ARAFEL_TRAIT_NAME" Language="en_US" Text="Arafel" />
+		<Row Tag="LOC_MINOR_CIV_ARAFEL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_ARAFEL_NAME" Language="en_US" Text="Arafel" />
+		<Row Tag="LOC_ARAFEL_DESCRIPTION" Language="en_US" Text="City State of Arafel" />
+		<Row Tag="LOC_ARAFEL_ADJECTIVE" Language="en_US" Text="Arafellin" />
+		<Row Tag="LOC_CITY_NAME_SHOL_ARBELA" Language="en_US" Text="Shol Arbela" />
+		<Row Tag="LOC_CITY_NAME_JAKANDA" Language="en_US" Text="Jakanda" />
+		<Row Tag="LOC_CITY_NAME_TIFANS_WELL" Language="en_US" Text="Tifan's Well" />
+		<!-- COFTEAR-->
+		<Row Tag="LOC_MINOR_CIV_COFTEAR_TRAIT_NAME" Language="en_US" Text="City of Tear" />
+		<Row Tag="LOC_MINOR_CIV_COFTEAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_COFTEAR_NAME" Language="en_US" Text="City of Tear" />
+		<Row Tag="LOC_COFTEAR_DESCRIPTION" Language="en_US" Text="City State of Tear" />
+		<Row Tag="LOC_COFTEAR_ADJECTIVE" Language="en_US" Text="Tairen" />
+		<!-- ILLIAN-->
+		<Row Tag="LOC_MINOR_CIV_ILLIAN_TRAIT_NAME" Language="en_US" Text="Illian" />
+		<Row Tag="LOC_MINOR_CIV_ILLIAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_ILLIAN_NAME" Language="en_US" Text="Illian" />
+		<Row Tag="LOC_ILLIAN_DESCRIPTION" Language="en_US" Text="City State of Illian" />
+		<Row Tag="LOC_ILLIAN_ADJECTIVE" Language="en_US" Text="Illianer" />
+		<Row Tag="LOC_CITY_NAME_C_ILLIAN" Language="en_US" Text="City of Illian" />
+		<!-- FALME-->
+		<Row Tag="LOC_MINOR_CIV_FALME_TRAIT_NAME" Language="en_US" Text="Falme" />
+		<Row Tag="LOC_MINOR_CIV_FALME_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_FALME_NAME" Language="en_US" Text="Falme" />
+		<Row Tag="LOC_FALME_DESCRIPTION" Language="en_US" Text="City State of Falme" />
+		<Row Tag="LOC_FALME_ADJECTIVE" Language="en_US" Text="Falme" />
+		<!-- MAYNE-->
+		<Row Tag="LOC_MINOR_CIV_MAYENE_TRAIT_NAME" Language="en_US" Text="Mayene" />
+		<Row Tag="LOC_MINOR_CIV_MAYENE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your units receive double experience from battles they initiate.</Text>
+		</Row>
+		<Row Tag="LOC_MAYENE_NAME" Language="en_US" Text="Mayene" />
+		<Row Tag="LOC_MAYENE_DESCRIPTION" Language="en_US" Text="City State of Mayene" />
+		<Row Tag="LOC_MAYENE_ADJECTIVE" Language="en_US" Text="Mayener" />
+		<!-- FAR_MADDING-->
+		<Row Tag="LOC_MINOR_CIV_FAR_MADDING_TRAIT_NAME" Language="en_US" Text="Far Madding" />
+		<Row Tag="LOC_MINOR_CIV_FAR_MADDING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_FAR_MADDING_NAME" Language="en_US" Text="Far Madding" />
+		<Row Tag="LOC_FAR_MADDING_DESCRIPTION" Language="en_US" Text="City State of Far Madding" />
+		<Row Tag="LOC_FAR_MADDING_ADJECTIVE" Language="en_US" Text="Far Madding" />
+		<Row Tag="LOC_CITY_NAME_FAR_MADDING" Language="en_US" Text="Far Madding" />
+		<!-- MALKIER-->
+		<Row Tag="LOC_MINOR_CIV_MALKIER_TRAIT_NAME" Language="en_US" Text="Malkier" />
+		<Row Tag="LOC_MINOR_CIV_MALKIER_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All melee unit gain +5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<Row Tag="LOC_MALKIER_NAME" Language="en_US" Text="Malkier" />
+		<Row Tag="LOC_MALKIER_DESCRIPTION" Language="en_US" Text="City State of Malkier" />
+		<Row Tag="LOC_MALKIER_ADJECTIVE" Language="en_US" Text="Malkieri" />
+		<Row Tag="LOC_CITY_NAME_SEVEN_TOWERS" Language="en_US" Text="Seven Towers" />
+		<Row Tag="LOC_CITY_NAME_HEROTS_CROSSING" Language="en_US" Text="Herot's Crossing" />
+		<Row Tag="LOC_CITY_NAME_JEHAAN" Language="en_US" Text="Jehaan" />
+		<Row Tag="LOC_ABILITY_MALKIER_MELEE_HILLS_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<!-- CANTORIN-->
+		<Row Tag="LOC_MINOR_CIV_CANTORIN_TRAIT_NAME" Language="en_US" Text="Cantorin" />
+		<Row Tag="LOC_MINOR_CIV_CANTORIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +3 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_CANTORIN_NAME" Language="en_US" Text="Cantorin" />
+		<Row Tag="LOC_CANTORIN_DESCRIPTION" Language="en_US" Text="City State of Cantorin" />
+		<Row Tag="LOC_CANTORIN_ADJECTIVE" Language="en_US" Text="Cantorin" />
+		<Row Tag="LOC_CITY_NAME_CANTORIN" Language="en_US" Text="Cantorin" />
+		<!-- DANTORA-->
+		<Row Tag="LOC_MINOR_CIV_DANTORA_TRAIT_NAME" Language="en_US" Text="Dantora" />
+		<Row Tag="LOC_MINOR_CIV_DANTORA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_DANTORA_NAME" Language="en_US" Text="Dantora" />
+		<Row Tag="LOC_DANTORA_DESCRIPTION" Language="en_US" Text="City State of Dantora" />
+		<Row Tag="LOC_DANTORA_ADJECTIVE" Language="en_US" Text="Dantora" />
+		<Row Tag="LOC_CITY_NAME_DANTORA" Language="en_US" Text="Dantora" />
+		<!-- TREMALKING-->
+		<Row Tag="LOC_MINOR_CIV_TREMALKING_TRAIT_NAME" Language="en_US" Text="Tremalking" />
+		<Row Tag="LOC_MINOR_CIV_TREMALKING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +2 [ICON_Faith] Faith for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_TREMALKING_NAME" Language="en_US" Text="Tremalking" />
+		<Row Tag="LOC_TREMALKING_DESCRIPTION" Language="en_US" Text="City State of Tremalking" />
+		<Row Tag="LOC_TREMALKING_ADJECTIVE" Language="en_US" Text="Tremalking" />
+		<Row Tag="LOC_CITY_NAME_TREMALKING" Language="en_US" Text="Tremalking" />
+		<!-- QAIM-->
+		<Row Tag="LOC_MINOR_CIV_QAIM_TRAIT_NAME" Language="en_US" Text="Qaim" />
+		<Row Tag="LOC_MINOR_CIV_QAIM_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_QAIM_NAME" Language="en_US" Text="Qaim" />
+		<Row Tag="LOC_QAIM_DESCRIPTION" Language="en_US" Text="City State of Qaim" />
+		<Row Tag="LOC_QAIM_ADJECTIVE" Language="en_US" Text="Qaim" />
+		<Row Tag="LOC_CITY_NAME_QAIM" Language="en_US" Text="Qaim" />
+		<!-- CINDAKING-->
+		<Row Tag="LOC_MINOR_CIV_CINDAKING_TRAIT_NAME" Language="en_US" Text="Cindaking" />
+		<Row Tag="LOC_MINOR_CIV_CINDAKING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_CINDAKING_NAME" Language="en_US" Text="Cindaking" />
+		<Row Tag="LOC_CINDAKING_DESCRIPTION" Language="en_US" Text="City State of Cindaking" />
+		<Row Tag="LOC_CINDAKING_ADJECTIVE" Language="en_US" Text="Cindaking" />
+		<Row Tag="LOC_CITY_NAME_CINDAKING" Language="en_US" Text="Cindaking" />
+		<!-- STEDDING_SHANGTAI-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SHANGTAI_TRAIT_NAME" Language="en_US" Text="Stedding Shangtai" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SHANGTAI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_SHANGTAI_NAME" Language="en_US" Text="Stedding Shangtai" />
+		<Row Tag="LOC_STEDDING_SHANGTAI_DESCRIPTION" Language="en_US" Text="Stedding Shangtai" />
+		<Row Tag="LOC_STEDDING_SHANGTAI_ADJECTIVE" Language="en_US" Text="Shangtai" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_SHANGTAI" Language="en_US" Text="Stedding Shangtai" />
+		<!-- STEDDING_CANTOINE-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_CANTOINE_TRAIT_NAME" Language="en_US" Text="Stedding Cantoine" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_CANTOINE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Teather gains +1 [ICON_Culture] Culture for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_CANTOINE_NAME" Language="en_US" Text="Stedding Cantoine" />
+		<Row Tag="LOC_STEDDING_CANTOINE_DESCRIPTION" Language="en_US" Text="Stedding Cantoine" />
+		<Row Tag="LOC_STEDDING_CANTOINE_ADJECTIVE" Language="en_US" Text="Cantoine" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_CANTOINE" Language="en_US" Text="Stedding Cantoine" />
+		<Row Tag="LOC_WOT_DISTRICT_FOREST_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Forest adjacency.</Text>
+		</Row>
+		<!-- STEDDING_TAIJING-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TAIJING_TRAIT_NAME" Language="en_US" Text="Stedding Taijing" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TAIJING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities earn +15% [ICON_Science] Science whenever you are not at war with any civilization.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_TAIJING_NAME" Language="en_US" Text="Stedding Taijing" />
+		<Row Tag="LOC_STEDDING_TAIJING_DESCRIPTION" Language="en_US" Text="Stedding Taijing" />
+		<Row Tag="LOC_STEDDING_TAIJING_ADJECTIVE" Language="en_US" Text="Taijing" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_TAIJING" Language="en_US" Text="Stedding Taijing" />
+		<!-- STEDDING_JANSHIN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JANSHIN_TRAIT_NAME" Language="en_US" Text="Stedding Janshin" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JANSHIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Faith [ICON_Faith].</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_JANSHIN_NAME" Language="en_US" Text="Stedding Janshin" />
+		<Row Tag="LOC_STEDDING_JANSHIN_DESCRIPTION" Language="en_US" Text="Stedding Janshin" />
+		<Row Tag="LOC_STEDDING_JANSHIN_ADJECTIVE" Language="en_US" Text="Janshin" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_JANSHIN" Language="en_US" Text="Stedding Janshin" />
+		<!-- STEDDING_SHADOON-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SHADOON_TRAIT_NAME" Language="en_US" Text="Stedding Shadoon" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SHADOON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Campus gains +1 [ICON_Culture] Culture for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_SHADOON_NAME" Language="en_US" Text="Stedding Shadoon" />
+		<Row Tag="LOC_STEDDING_SHADOON_DESCRIPTION" Language="en_US" Text="Stedding Shadoon" />
+		<Row Tag="LOC_STEDDING_SHADOON_ADJECTIVE" Language="en_US" Text="Shadoon" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_SHADOON" Language="en_US" Text="Stedding Shadoon" />
+		<!-- STEDDING_MARDOON-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_MARDOON_TRAIT_NAME" Language="en_US" Text="Stedding Mardoon" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_MARDOON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Campus gains +1 [ICON_Science] Science for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_MARDOON_NAME" Language="en_US" Text="Stedding Mardoon" />
+		<Row Tag="LOC_STEDDING_MARDOON_DESCRIPTION" Language="en_US" Text="Stedding Mardoon" />
+		<Row Tag="LOC_STEDDING_MARDOON_ADJECTIVE" Language="en_US" Text="Mardoon" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_MARDOON" Language="en_US" Text="Stedding Mardoon" />
+		<Row Tag="LOC_WOT_DISTRICT_FOREST_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science for Forest adjacency.</Text>
+		</Row>
+		<!-- STEDDING_MADAN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_MADAN_TRAIT_NAME" Language="en_US" Text="Stedding Madan" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_MADAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Site gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_MADAN_NAME" Language="en_US" Text="Stedding Madan" />
+		<Row Tag="LOC_STEDDING_MADAN_DESCRIPTION" Language="en_US" Text="Stedding Madan" />
+		<Row Tag="LOC_STEDDING_MADAN_ADJECTIVE" Language="en_US" Text="Madan" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_MADAN" Language="en_US" Text="Stedding Madan" />
+		<Row Tag="LOC_WOT_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<!-- STEDDING_TAISHIN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TAISHIN_TRAIT_NAME" Language="en_US" Text="Stedding Taishin" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TAISHIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hub gains +1 [ICON_Culture] Culture for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_TAISHIN_NAME" Language="en_US" Text="Stedding Taishin" />
+		<Row Tag="LOC_STEDDING_TAISHIN_DESCRIPTION" Language="en_US" Text="Stedding Taishin" />
+		<Row Tag="LOC_STEDDING_TAISHIN_ADJECTIVE" Language="en_US" Text="Taishin" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_TAISHIN" Language="en_US" Text="Stedding Taishin" />
+		<!-- STEDDING_JENTOINE-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JENTOINE_TRAIT_NAME" Language="en_US" Text="Stedding Jentoine" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JENTOINE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Science [ICON_Science].</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_JENTOINE_NAME" Language="en_US" Text="Stedding Jentoine" />
+		<Row Tag="LOC_STEDDING_JENTOINE_DESCRIPTION" Language="en_US" Text="Stedding Jentoine" />
+		<Row Tag="LOC_STEDDING_JENTOINE_ADJECTIVE" Language="en_US" Text="Jentoine" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_JENTOINE" Language="en_US" Text="Stedding Jentoine" />
+		<!-- STEDDING_CHIANTAL-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_CHIANTAL_TRAIT_NAME" Language="en_US" Text="Stedding Chiantal" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_CHIANTAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_CHIANTAL_NAME" Language="en_US" Text="Stedding Chiantal" />
+		<Row Tag="LOC_STEDDING_CHIANTAL_DESCRIPTION" Language="en_US" Text="Stedding Chiantal" />
+		<Row Tag="LOC_STEDDING_CHIANTAL_ADJECTIVE" Language="en_US" Text="Chiantal" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_CHIANTAL" Language="en_US" Text="Stedding Chiantal" />
+		<!-- STEDDING_NURSHANG-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_NURSHANG_TRAIT_NAME" Language="en_US" Text="Stedding Nurshang" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_NURSHANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities get +15% [ICON_Production] Production towards wonders.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_NURSHANG_NAME" Language="en_US" Text="Stedding Nurshang" />
+		<Row Tag="LOC_STEDDING_NURSHANG_DESCRIPTION" Language="en_US" Text="Stedding Nurshang" />
+		<Row Tag="LOC_STEDDING_NURSHANG_ADJECTIVE" Language="en_US" Text="Nurshang" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_NURSHANG" Language="en_US" Text="Stedding Nurshang" />
+		<!-- STEDDING_YONTIANG-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_YONTIANG_TRAIT_NAME" Language="en_US" Text="Stedding Yontiang" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_YONTIANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone gains +1 [ICON_Culture] Culture for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_YONTIANG_NAME" Language="en_US" Text="Stedding Yontiang" />
+		<Row Tag="LOC_STEDDING_YONTIANG_DESCRIPTION" Language="en_US" Text="Stedding Yontiang" />
+		<Row Tag="LOC_STEDDING_YONTIANG_ADJECTIVE" Language="en_US" Text="Yontiang" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_YONTIANG" Language="en_US" Text="Stedding Yontiang" />
+		<!-- STEDDING_QICHEN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_QICHEN_TRAIT_NAME" Language="en_US" Text="Stedding Qichen" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_QICHEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Teather gains +1 [ICON_Science] Science for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_QICHEN_NAME" Language="en_US" Text="Stedding Qichen" />
+		<Row Tag="LOC_STEDDING_QICHEN_DESCRIPTION" Language="en_US" Text="Stedding Qichen" />
+		<Row Tag="LOC_STEDDING_QICHEN_ADJECTIVE" Language="en_US" Text="Qichen" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_QICHEN" Language="en_US" Text="Stedding Qichen" />
+		<!-- STEDDING_SANSHEN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SANSHEN_TRAIT_NAME" Language="en_US" Text="Stedding Sanshen" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_SANSHEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Teather gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_SANSHEN_NAME" Language="en_US" Text="Stedding Sanshen" />
+		<Row Tag="LOC_STEDDING_SANSHEN_DESCRIPTION" Language="en_US" Text="Stedding Sanshen" />
+		<Row Tag="LOC_STEDDING_SANSHEN_ADJECTIVE" Language="en_US" Text="Sanshen" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_SANSHEN" Language="en_US" Text="Stedding Sanshen" />
+		<!-- STEDDING_TSOFU-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TSOFU_TRAIT_NAME" Language="en_US" Text="Stedding Tsofu" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TSOFU_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities get +20% [ICON_Production] Production towards city projects.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_TSOFU_NAME" Language="en_US" Text="Stedding Tsofu" />
+		<Row Tag="LOC_STEDDING_TSOFU_DESCRIPTION" Language="en_US" Text="Stedding Tsofu" />
+		<Row Tag="LOC_STEDDING_TSOFU_ADJECTIVE" Language="en_US" Text="Tsofu" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_TSOFU" Language="en_US" Text="Stedding Tsofu" />
+		<!-- STEDDING_DAITING-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_DAITING_TRAIT_NAME" Language="en_US" Text="Stedding Daiting" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_DAITING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone gains +1 [ICON_Production] Production for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_DAITING_NAME" Language="en_US" Text="Stedding Daiting" />
+		<Row Tag="LOC_STEDDING_DAITING_DESCRIPTION" Language="en_US" Text="Stedding Daiting" />
+		<Row Tag="LOC_STEDDING_DAITING_ADJECTIVE" Language="en_US" Text="Daiting" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_DAITING" Language="en_US" Text="Stedding Daiting" />
+		<Row Tag="LOC_WOT_DISTRICT_FOREST_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for Forest adjacency.</Text>
+		</Row>
+		<!-- STEDDING_TSOFAN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TSOFAN_TRAIT_NAME" Language="en_US" Text="Stedding Tsofan" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_TSOFAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Culture [ICON_Culture].</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_TSOFAN_NAME" Language="en_US" Text="Stedding Tsofan" />
+		<Row Tag="LOC_STEDDING_TSOFAN_DESCRIPTION" Language="en_US" Text="Stedding Tsofan" />
+		<Row Tag="LOC_STEDDING_TSOFAN_ADJECTIVE" Language="en_US" Text="Tsofan" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_TSOFAN" Language="en_US" Text="Stedding Tsofan" />
+		<!-- STEDDING_FEINDU-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_FEINDU_TRAIT_NAME" Language="en_US" Text="Stedding Feindu" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_FEINDU_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Campus gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_FEINDU_NAME" Language="en_US" Text="Stedding Feindu" />
+		<Row Tag="LOC_STEDDING_FEINDU_DESCRIPTION" Language="en_US" Text="Stedding Feindu" />
+		<Row Tag="LOC_STEDDING_FEINDU_ADJECTIVE" Language="en_US" Text="Feindu" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_FEINDU" Language="en_US" Text="Stedding Feindu" />
+		<!-- STEDDING_JINSIUN-->
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JINSIUN_TRAIT_NAME" Language="en_US" Text="Stedding Jinsiun" />
+		<Row Tag="LOC_MINOR_CIV_STEDDING_JINSIUN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_STEDDING_JINSIUN_NAME" Language="en_US" Text="Stedding Jinsiun" />
+		<Row Tag="LOC_STEDDING_JINSIUN_DESCRIPTION" Language="en_US" Text="Stedding Jinsiun" />
+		<Row Tag="LOC_STEDDING_JINSIUN_ADJECTIVE" Language="en_US" Text="Jinsiun" />
+		<Row Tag="LOC_CITY_NAME_STEDDING_JINSIUN" Language="en_US" Text="Stedding Jinsiun" />
+		<!-- CONTINENTS-->
+		<Row Tag="LOC_CONTINENT_WESTLANDS_NAME" Language="en_US" Text="Westlands" />
+		<Row Tag="LOC_CONTINENT_AIEL_WASTE_NAME" Language="en_US" Text="Aiel Waste" />
+		<Row Tag="LOC_CONTINENT_THE_GREAT_BLIGHT_NAME" Language="en_US" Text="The Great Blight" />
+		<Row Tag="LOC_CONTINENT_SEANCHAN_NAME" Language="en_US" Text="Seanchan" />
+		<Row Tag="LOC_CONTINENT_SHARA_NAME" Language="en_US" Text="Shara" />
+		<Row Tag="LOC_CONTINENT_LAND_OFTHE_MADMEN_NAME" Language="en_US" Text="Land of the Madmen" />
+		<!-- NATURAL WONDERS-->
+		<Row Tag="LOC_FEATURE_DRAGONMOUNT_NAME" Language="en_US" Text="Dragonmount" />
+		<Row Tag="LOC_FEATURE_DRAGONMOUNT_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Science] Science. +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_DRAGONMOUNT_QUOTE" Language="en_US">
+			<Text>“On the slopes of Dragonmount shall he be born, born of a maiden wedded to no man.”[NEWLINE]– Prophecies of the Dragon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SHAYOL_GHUL_NAME" Language="en_US" Text="Shayol Ghul" />
+		<Row Tag="LOC_FEATURE_SHAYOL_GHUL_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Faith] Faith and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_SHAYOL_GHUL_QUOTE" Language="en_US">
+			<Text>“I have taken the path down to the belly of Shayol Ghul, down the long way with stones like fangs brushing my head, to the shore of a lake of fire and molten rock.”[NEWLINE]– Padan Fain</Text>
+		</Row>
+		<!-- RIVERS-->
+		<Row Tag="LOC_NAMED_RIVER_AKUUM_NAME" Language="en_US" Text="River Akuum" />
+		<Row Tag="LOC_NAMED_RIVER_DHAGON_NAME" Language="en_US" Text="River Dhagon" />
+		<Row Tag="LOC_NAMED_RIVER_GAELIN_NAME" Language="en_US" Text="River Gaelin" />
+		<Row Tag="LOC_NAMED_RIVER_ALGUENYA_NAME" Language="en_US" Text="River Alguenya" />
+		<Row Tag="LOC_NAMED_RIVER_IRALELL_NAME" Language="en_US" Text="River Iralell" />
+		<Row Tag="LOC_NAMED_RIVER_ANDAHAR_NAME" Language="en_US" Text="River Andahar" />
+		<Row Tag="LOC_NAMED_RIVER_LUAN_NAME" Language="en_US" Text="River Luan" />
+		<Row Tag="LOC_NAMED_RIVER_ANTAEO_NAME" Language="en_US" Text="River Antaeo" />
+		<Row Tag="LOC_NAMED_RIVER_ARINELLE_NAME" Language="en_US" Text="River Arinelle" />
+		<Row Tag="LOC_NAMED_RIVER_IVO_NAME" Language="en_US" Text="River Ivo" />
+		<Row Tag="LOC_NAMED_RIVER_CARY_NAME" Language="en_US" Text="River Cary" />
+		<Row Tag="LOC_NAMED_RIVER_ARMAHN_NAME" Language="en_US" Text="River Armahn" />
+		<Row Tag="LOC_NAMED_RIVER_REISENDRELLE_NAME" Language="en_US" Text="River Reisendrelle" />
+		<Row Tag="LOC_NAMED_RIVER_HAEVIN_NAME" Language="en_US" Text="River Haevin" />
+		<Row Tag="LOC_NAMED_RIVER_STORN_NAME" Language="en_US" Text="River Storn" />
+		<Row Tag="LOC_NAMED_RIVER_ELDAR_NAME" Language="en_US" Text="River Eldar" />
+		<Row Tag="LOC_NAMED_RIVER_SHAL_NAME" Language="en_US" Text="River Shal" />
+		<Row Tag="LOC_NAMED_RIVER_BOERN_NAME" Language="en_US" Text="River Boern" />
+		<Row Tag="LOC_NAMED_RIVER_ERININ_NAME" Language="en_US" Text="River Erinin" />
+		<Row Tag="LOC_NAMED_RIVER_MANETHERENDRELLE_NAME" Language="en_US" Text="River Manetherendrelle" />
+		<Row Tag="LOC_NAMED_RIVER_TARENDRELLE_NAME" Language="en_US" Text="River Tarendrelle" />
+		<Row Tag="LOC_NAMED_RIVER_MORA_NAME" Language="en_US" Text="River Mora" />
+		<Row Tag="LOC_NAMED_RIVER_SHARIA_NAME" Language="en_US" Text="River Sharia" />
+		<!-- DESERTS -->
+		<Row Tag="LOC_NAMED_DESERT_AIEL_WASTE_NAME" Language="en_US" Text="Aiel Waste" />
+		<Row Tag="LOC_NAMED_DESERT_BLASTED_LANDS_NAME" Language="en_US" Text="Blasted Lands" />
+		<Row Tag="LOC_NAMED_DESERT_GREAT_BLIGHT_NAME" Language="en_US" Text="Great Blight" />
+		<Row Tag="LOC_NAMED_DESERT_LESSER_BLIGHT_NAME" Language="en_US" Text="Lesser Blight" />
+		<Row Tag="LOC_NAMED_DESERT_TERMOOL_DESERT_NAME" Language="en_US" Text="Termool Desert" />
+		<!-- MOUNTAINS -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_BANIKHAN_NAME" Language="en_US" Text="Banikhan Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_CHISHEN_NAME" Language="en_US" Text="Chishen Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_DAMONA_NAME" Language="en_US" Text="Damona Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_NEMARELLIN_NAME" Language="en_US" Text="Nemarellin Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_VERIN_NAME" Language="en_US" Text="Venir Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_KINSLAYERS_DAGGER_NAME" Language="en_US" Text="Kinslayer's Dagger" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_MARASIDE_NAME" Language="en_US" Text="Maraside Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGONS_DAGGER_NAME" Language="en_US" Text="Dragon's Dagger" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_GARENS_WALL_NAME" Language="en_US" Text="Garen's Wall" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_IJAZ_NAME" Language="en_US" Text="Ijaz Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALDAEL_NAME" Language="en_US" Text="Aldael Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_DHOOM_NAME" Language="en_US" Text="Mountains of Dhoom" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_MIST_NAME" Language="en_US" Text="Mountains of Mist" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_SPINE_OFTHE_WORLD_NAME" Language="en_US" Text="Spine of the World" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGONWALL_NAME" Language="en_US" Text="Dragonwall" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_THE_GREAT_RIFT_NAME" Language="en_US" Text="The Great Rift" />
+		<!-- LAKES & SEAS & OCEANS-->
+		<Row Tag="LOC_NAMED_LAKE_SOMAL_NAME" Language="en_US" Text="Lake Somal" />
+		<Row Tag="LOC_NAMED_SEA_LHEYE_NAME" Language="en_US" Text="Sea of L'Heye" />
+		<Row Tag="LOC_NAMED_SEA_OF_STORMS_NAME" Language="en_US" Text="Sea of Storms" />
+		<Row Tag="LOC_NAMED_SEA_THE_DEAD_NAME" Language="en_US" Text="The Dead Sea" />
+	</LocalizedText>
+</GameData>

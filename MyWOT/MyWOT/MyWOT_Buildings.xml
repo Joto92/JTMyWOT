@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_UNDERGROUND_CISTERN" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_FOUNTAIN_SQUARE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_HORSE_RACETRACK" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ILLUMINATORS_GUILD_HALL" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_DOMANI_LIBRARY" Kind="KIND_BUILDING"/>
+
+	</Types>
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_FOUNTAIN_SQUARE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+		<Row CivUniqueBuildingType="BUILDING_HORSE_RACETRACK" ReplacesBuildingType="BUILDING_ARENA"/>
+		<Row CivUniqueBuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_DOMANI_LIBRARY" ReplacesBuildingType="BUILDING_LIBRARY"/>
+
+	</BuildingReplaces>
+	<Buildings>
+		<Row BuildingType="BUILDING_UNDERGROUND_CISTERN" Name="LOC_BUILDING_UNDERGROUND_CISTERN_NAME" Description="LOC_BUILDING_UNDERGROUND_CISTERN_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" Cost="150" AdvisorType="ADVISOR_GENERIC" Maintenance="0" Housing="2" TraitType="TRAIT_CIVILIZATION_BUILDING_UNDERGROUND_CISTERN" MaxPlayerInstances="1" Capital="true"/>
+		<Row BuildingType="BUILDING_FOUNTAIN_SQUARE" Name="LOC_BUILDING_FOUNTAIN_SQUARE_NAME" Description="LOC_BUILDING_FOUNTAIN_SQUARE_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" AdvisorType="ADVISOR_CULTURE" TraitType="TRAIT_CIVILIZATION_BUILDING_FOUNTAIN_SQUARE"/>
+		<Row BuildingType="BUILDING_HORSE_RACETRACK" Name="LOC_BUILDING_HORSE_RACETRACK_NAME" Description="LOC_BUILDING_HORSE_RACETRACK_DESCRIPTION" PrereqCivic="CIVIC_GAMES_RECREATION" PrereqDistrict="DISTRICT_ENTERTAINMENT_COMPLEX" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" Maintenance="1" Entertainment="3" TraitType="TRAIT_CIVILIZATION_BUILDING_HORSE_RACETRACK"/>
+		<Row BuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" Name="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_NAME" Description="LOC_BUILDING_ILLUMINATORS_GUILD_HALL_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="2" TraitType="TRAIT_CIVILIZATION_BUILDING_ILLUMINATORS_GUILD_HALL" CitizenSlots="1"/>
+		<Row BuildingType="BUILDING_DOMANI_LIBRARY" Name="LOC_BUILDING_DOMANI_LIBRARY_NAME" Description="LOC_BUILDING_DOMANI_LIBRARY_DESCRIPTION" PrereqTech="TECH_WRITING" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" Cost="90" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DOMANI_LIBRARY"/>
+
+	</Buildings>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_UNDERGROUND_CISTERN" YieldType="YIELD_FOOD" YieldChange="4"/>
+		<Row BuildingType="BUILDING_UNDERGROUND_CISTERN" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_FOUNTAIN_SQUARE" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_FOUNTAIN_SQUARE" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_HORSE_RACETRACK" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_HORSE_RACETRACK" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
+		<Row BuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_DOMANI_LIBRARY" YieldType="YIELD_SCIENCE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_DOMANI_LIBRARY" YieldType="YIELD_CULTURE" YieldChange="1"/>
+
+	</Building_YieldChanges>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_ILLUMINATORS_GUILD_HALL" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_DOMANI_LIBRARY" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+
+	</Building_GreatPersonPoints>
+</GameData>
